@@ -1,0 +1,7135 @@
+screen 800 600 255 255 255
+save lab1_tri.ppm
+#The following are triangles and polylines for a sphere
+color 255 0 0
+triangle
+color 39 255 39
+vertex 346 300 0
+color 49 255 49
+vertex 296 415 0
+color 0 255 0
+vertex 225 300 0
+color 0 0 0
+polyline 4 1
+vertex 346 300 0
+vertex 296 415 0
+vertex 225 300 0
+vertex 346 300 0
+triangle
+color 0 255 0
+vertex 225 300 0
+color 49 255 49
+vertex 154 415 0
+color 39 255 39
+vertex 104 300 0
+color 0 0 0
+polyline 4 1
+vertex 225 300 0
+vertex 154 415 0
+vertex 104 300 0
+vertex 225 300 0
+triangle
+color 49 255 49
+vertex 296 415 0
+color 121 255 121
+vertex 225 496 0
+color 49 255 49
+vertex 154 415 0
+color 0 0 0
+polyline 4 1
+vertex 296 415 0
+vertex 225 496 0
+vertex 154 415 0
+vertex 296 415 0
+triangle
+color 0 255 0
+vertex 225 300 0
+color 49 255 49
+vertex 296 415 0
+color 49 255 49
+vertex 154 415 0
+color 0 0 0
+polyline 4 1
+vertex 225 300 0
+vertex 296 415 0
+vertex 154 415 0
+vertex 225 300 0
+triangle
+color 39 255 39
+vertex 346 300 0
+color 0 255 0
+vertex 225 300 0
+color 49 255 49
+vertex 296 185 0
+color 0 0 0
+polyline 4 1
+vertex 346 300 0
+vertex 225 300 0
+vertex 296 185 0
+vertex 346 300 0
+triangle
+color 49 255 49
+vertex 296 185 0
+color 49 255 49
+vertex 154 185 0
+color 121 255 121
+vertex 225 104 0
+color 0 0 0
+polyline 4 1
+vertex 296 185 0
+vertex 154 185 0
+vertex 225 104 0
+vertex 296 185 0
+triangle
+color 0 255 0
+vertex 225 300 0
+color 39 255 39
+vertex 104 300 0
+color 49 255 49
+vertex 154 185 0
+color 0 0 0
+polyline 4 1
+vertex 225 300 0
+vertex 104 300 0
+vertex 154 185 0
+vertex 225 300 0
+triangle
+color 49 255 49
+vertex 296 185 0
+color 0 255 0
+vertex 225 300 0
+color 49 255 49
+vertex 154 185 0
+color 0 0 0
+polyline 4 1
+vertex 296 185 0
+vertex 225 300 0
+vertex 154 185 0
+vertex 296 185 0
+triangle
+color 128 255 128
+vertex 411 371 0
+color 39 255 39
+vertex 346 300 0
+color 128 255 128
+vertex 411 229 0
+color 0 0 0
+polyline 4 1
+vertex 411 371 0
+vertex 346 300 0
+vertex 411 229 0
+vertex 411 371 0
+triangle
+color 128 255 128
+vertex 39 229 0
+color 39 255 39
+vertex 104 300 0
+color 128 255 128
+vertex 39 371 0
+color 0 0 0
+polyline 4 1
+vertex 39 229 0
+vertex 104 300 0
+vertex 39 371 0
+vertex 39 229 0
+triangle
+color 121 255 121
+vertex 225 496 0
+color 49 255 49
+vertex 296 415 0
+color 177 255 177
+vertex 340 486 0
+color 0 0 0
+polyline 4 1
+vertex 225 496 0
+vertex 296 415 0
+vertex 340 486 0
+vertex 225 496 0
+triangle
+color 49 255 49
+vertex 296 415 0
+color 39 255 39
+vertex 346 300 0
+color 128 255 128
+vertex 411 371 0
+color 0 0 0
+polyline 4 1
+vertex 296 415 0
+vertex 346 300 0
+vertex 411 371 0
+vertex 296 415 0
+triangle
+color 177 255 177
+vertex 340 486 0
+color 49 255 49
+vertex 296 415 0
+color 128 255 128
+vertex 411 371 0
+color 0 0 0
+polyline 4 1
+vertex 340 486 0
+vertex 296 415 0
+vertex 411 371 0
+vertex 340 486 0
+triangle
+color 39 255 39
+vertex 346 300 0
+color 49 255 49
+vertex 296 185 0
+color 128 255 128
+vertex 411 229 0
+color 0 0 0
+polyline 4 1
+vertex 346 300 0
+vertex 296 185 0
+vertex 411 229 0
+vertex 346 300 0
+triangle
+color 49 255 49
+vertex 296 185 0
+color 121 255 121
+vertex 225 104 0
+color 177 255 177
+vertex 340 114 0
+color 0 0 0
+polyline 4 1
+vertex 296 185 0
+vertex 225 104 0
+vertex 340 114 0
+vertex 296 185 0
+triangle
+color 128 255 128
+vertex 411 229 0
+color 49 255 49
+vertex 296 185 0
+color 177 255 177
+vertex 340 114 0
+color 0 0 0
+polyline 4 1
+vertex 411 229 0
+vertex 296 185 0
+vertex 340 114 0
+vertex 411 229 0
+triangle
+color 39 255 39
+vertex 104 300 0
+color 49 255 49
+vertex 154 415 0
+color 128 255 128
+vertex 39 371 0
+color 0 0 0
+polyline 4 1
+vertex 104 300 0
+vertex 154 415 0
+vertex 39 371 0
+vertex 104 300 0
+triangle
+color 49 255 49
+vertex 154 415 0
+color 121 255 121
+vertex 225 496 0
+color 177 255 177
+vertex 110 486 0
+color 0 0 0
+polyline 4 1
+vertex 154 415 0
+vertex 225 496 0
+vertex 110 486 0
+vertex 154 415 0
+triangle
+color 128 255 128
+vertex 39 371 0
+color 49 255 49
+vertex 154 415 0
+color 177 255 177
+vertex 110 486 0
+color 0 0 0
+polyline 4 1
+vertex 39 371 0
+vertex 154 415 0
+vertex 110 486 0
+vertex 39 371 0
+triangle
+color 39 255 39
+vertex 104 300 0
+color 128 255 128
+vertex 39 229 0
+color 49 255 49
+vertex 154 185 0
+color 0 0 0
+polyline 4 1
+vertex 104 300 0
+vertex 39 229 0
+vertex 154 185 0
+vertex 104 300 0
+triangle
+color 49 255 49
+vertex 154 185 0
+color 177 255 177
+vertex 110 114 0
+color 121 255 121
+vertex 225 104 0
+color 0 0 0
+polyline 4 1
+vertex 154 185 0
+vertex 110 114 0
+vertex 225 104 0
+vertex 154 185 0
+triangle
+color 49 255 49
+vertex 154 185 0
+color 128 255 128
+vertex 39 229 0
+color 177 255 177
+vertex 110 114 0
+color 0 0 0
+polyline 4 1
+vertex 154 185 0
+vertex 39 229 0
+vertex 110 114 0
+vertex 154 185 0
+#The following are triangles and polylines for a teddy bear
+triangle
+color 40 0 0
+vertex 635 192 0
+color 40 0 0
+vertex 584 163 0
+color 38 0 0
+vertex 585 244 0
+color 0 0 0
+polyline 4 1
+vertex 635 192 0
+vertex 584 163 0
+vertex 585 244 0
+vertex 635 192 0
+triangle
+color 41 0 0
+vertex 546 206 0
+color 38 0 0
+vertex 585 244 0
+color 40 0 0
+vertex 584 163 0
+color 0 0 0
+polyline 4 1
+vertex 546 206 0
+vertex 585 244 0
+vertex 584 163 0
+vertex 546 206 0
+triangle
+color 38 0 0
+vertex 585 244 0
+color 42 0 0
+vertex 636 261 0
+color 40 0 0
+vertex 635 192 0
+color 0 0 0
+polyline 4 1
+vertex 585 244 0
+vertex 636 261 0
+vertex 635 192 0
+vertex 585 244 0
+triangle
+color 42 0 0
+vertex 636 261 0
+color 38 0 0
+vertex 585 244 0
+color 46 0 0
+vertex 598 306 0
+color 0 0 0
+polyline 4 1
+vertex 636 261 0
+vertex 585 244 0
+vertex 598 306 0
+vertex 636 261 0
+triangle
+color 47 0 0
+vertex 670 220 0
+color 40 0 0
+vertex 635 192 0
+color 42 0 0
+vertex 636 261 0
+color 0 0 0
+polyline 4 1
+vertex 670 220 0
+vertex 635 192 0
+vertex 636 261 0
+vertex 670 220 0
+triangle
+color 38 0 0
+vertex 585 244 0
+color 41 0 0
+vertex 546 206 0
+color 47 0 0
+vertex 531 258 0
+color 0 0 0
+polyline 4 1
+vertex 585 244 0
+vertex 546 206 0
+vertex 531 258 0
+vertex 585 244 0
+triangle
+color 40 0 0
+vertex 584 163 0
+color 49 0 0
+vertex 530 157 0
+color 41 0 0
+vertex 546 206 0
+color 0 0 0
+polyline 4 1
+vertex 584 163 0
+vertex 530 157 0
+vertex 546 206 0
+vertex 584 163 0
+triangle
+color 38 0 0
+vertex 585 244 0
+color 47 0 0
+vertex 531 258 0
+color 49 0 0
+vertex 553 298 0
+color 0 0 0
+polyline 4 1
+vertex 585 244 0
+vertex 531 258 0
+vertex 553 298 0
+vertex 585 244 0
+triangle
+color 46 0 0
+vertex 598 306 0
+color 38 0 0
+vertex 585 244 0
+color 49 0 0
+vertex 553 298 0
+color 0 0 0
+polyline 4 1
+vertex 598 306 0
+vertex 585 244 0
+vertex 553 298 0
+vertex 598 306 0
+triangle
+color 50 0 0
+vertex 637 128 0
+color 40 0 0
+vertex 584 163 0
+color 40 0 0
+vertex 635 192 0
+color 0 0 0
+polyline 4 1
+vertex 637 128 0
+vertex 584 163 0
+vertex 635 192 0
+vertex 637 128 0
+triangle
+color 50 0 0
+vertex 594 106 0
+color 40 0 0
+vertex 584 163 0
+color 50 0 0
+vertex 637 128 0
+color 0 0 0
+polyline 4 1
+vertex 594 106 0
+vertex 584 163 0
+vertex 637 128 0
+vertex 594 106 0
+triangle
+color 40 0 0
+vertex 584 163 0
+color 51 0 0
+vertex 555 114 0
+color 49 0 0
+vertex 530 157 0
+color 0 0 0
+polyline 4 1
+vertex 584 163 0
+vertex 555 114 0
+vertex 530 157 0
+vertex 584 163 0
+triangle
+color 50 0 0
+vertex 594 106 0
+color 51 0 0
+vertex 555 114 0
+color 40 0 0
+vertex 584 163 0
+color 0 0 0
+polyline 4 1
+vertex 594 106 0
+vertex 555 114 0
+vertex 584 163 0
+vertex 594 106 0
+triangle
+color 52 0 0
+vertex 643 311 0
+color 42 0 0
+vertex 636 261 0
+color 46 0 0
+vertex 598 306 0
+color 0 0 0
+polyline 4 1
+vertex 643 311 0
+vertex 636 261 0
+vertex 598 306 0
+vertex 643 311 0
+triangle
+color 53 0 0
+vertex 675 269 0
+color 47 0 0
+vertex 670 220 0
+color 42 0 0
+vertex 636 261 0
+color 0 0 0
+polyline 4 1
+vertex 675 269 0
+vertex 670 220 0
+vertex 636 261 0
+vertex 675 269 0
+triangle
+color 52 0 0
+vertex 643 311 0
+color 53 0 0
+vertex 675 269 0
+color 42 0 0
+vertex 636 261 0
+color 0 0 0
+polyline 4 1
+vertex 643 311 0
+vertex 675 269 0
+vertex 636 261 0
+vertex 643 311 0
+triangle
+color 47 0 0
+vertex 531 258 0
+color 41 0 0
+vertex 546 206 0
+color 55 0 0
+vertex 503 203 0
+color 0 0 0
+polyline 4 1
+vertex 531 258 0
+vertex 546 206 0
+vertex 503 203 0
+vertex 531 258 0
+triangle
+color 49 0 0
+vertex 530 157 0
+color 55 0 0
+vertex 503 203 0
+color 41 0 0
+vertex 546 206 0
+color 0 0 0
+polyline 4 1
+vertex 530 157 0
+vertex 503 203 0
+vertex 546 206 0
+vertex 530 157 0
+triangle
+color 55 0 0
+vertex 683 171 0
+color 40 0 0
+vertex 635 192 0
+color 47 0 0
+vertex 670 220 0
+color 0 0 0
+polyline 4 1
+vertex 683 171 0
+vertex 635 192 0
+vertex 670 220 0
+vertex 683 171 0
+triangle
+color 55 0 0
+vertex 683 171 0
+color 50 0 0
+vertex 637 128 0
+color 40 0 0
+vertex 635 192 0
+color 0 0 0
+polyline 4 1
+vertex 683 171 0
+vertex 637 128 0
+vertex 635 192 0
+vertex 683 171 0
+triangle
+color 56 0 0
+vertex 624 413 0
+color 54 0 0
+vertex 585 408 0
+color 51 0 0
+vertex 590 455 0
+color 0 0 0
+polyline 4 1
+vertex 624 413 0
+vertex 585 408 0
+vertex 590 455 0
+vertex 624 413 0
+triangle
+color 54 0 0
+vertex 585 408 0
+color 57 0 0
+vertex 551 435 0
+color 51 0 0
+vertex 590 455 0
+color 0 0 0
+polyline 4 1
+vertex 585 408 0
+vertex 551 435 0
+vertex 590 455 0
+vertex 585 408 0
+triangle
+color 51 0 0
+vertex 590 455 0
+color 57 0 0
+vertex 551 435 0
+color 59 0 0
+vertex 546 466 0
+color 0 0 0
+polyline 4 1
+vertex 590 455 0
+vertex 551 435 0
+vertex 546 466 0
+vertex 590 455 0
+triangle
+color 56 0 0
+vertex 624 413 0
+color 51 0 0
+vertex 590 455 0
+color 59 0 0
+vertex 645 461 0
+color 0 0 0
+polyline 4 1
+vertex 624 413 0
+vertex 590 455 0
+vertex 645 461 0
+vertex 624 413 0
+triangle
+color 52 0 0
+vertex 643 311 0
+color 46 0 0
+vertex 598 306 0
+color 60 0 0
+vertex 616 363 0
+color 0 0 0
+polyline 4 1
+vertex 643 311 0
+vertex 598 306 0
+vertex 616 363 0
+vertex 643 311 0
+triangle
+color 54 0 0
+vertex 585 408 0
+color 56 0 0
+vertex 624 413 0
+color 60 0 0
+vertex 616 363 0
+color 0 0 0
+polyline 4 1
+vertex 585 408 0
+vertex 624 413 0
+vertex 616 363 0
+vertex 585 408 0
+triangle
+color 61 0 0
+vertex 570 360 0
+color 54 0 0
+vertex 585 408 0
+color 60 0 0
+vertex 616 363 0
+color 0 0 0
+polyline 4 1
+vertex 570 360 0
+vertex 585 408 0
+vertex 616 363 0
+vertex 570 360 0
+triangle
+color 60 0 0
+vertex 616 363 0
+color 46 0 0
+vertex 598 306 0
+color 61 0 0
+vertex 570 360 0
+color 0 0 0
+polyline 4 1
+vertex 616 363 0
+vertex 598 306 0
+vertex 570 360 0
+vertex 616 363 0
+triangle
+color 49 0 0
+vertex 553 298 0
+color 61 0 0
+vertex 570 360 0
+color 46 0 0
+vertex 598 306 0
+color 0 0 0
+polyline 4 1
+vertex 553 298 0
+vertex 570 360 0
+vertex 598 306 0
+vertex 553 298 0
+triangle
+color 51 0 0
+vertex 590 455 0
+color 59 0 0
+vertex 546 466 0
+color 62 0 0
+vertex 562 497 0
+color 0 0 0
+polyline 4 1
+vertex 590 455 0
+vertex 546 466 0
+vertex 562 497 0
+vertex 590 455 0
+triangle
+color 62 0 0
+vertex 493 246 0
+color 47 0 0
+vertex 531 258 0
+color 55 0 0
+vertex 503 203 0
+color 0 0 0
+polyline 4 1
+vertex 493 246 0
+vertex 531 258 0
+vertex 503 203 0
+vertex 493 246 0
+triangle
+color 51 0 0
+vertex 590 455 0
+color 62 0 0
+vertex 562 497 0
+color 64 0 0
+vertex 619 503 0
+color 0 0 0
+polyline 4 1
+vertex 590 455 0
+vertex 562 497 0
+vertex 619 503 0
+vertex 590 455 0
+triangle
+color 51 0 0
+vertex 590 455 0
+color 64 0 0
+vertex 619 503 0
+color 59 0 0
+vertex 645 461 0
+color 0 0 0
+polyline 4 1
+vertex 590 455 0
+vertex 619 503 0
+vertex 645 461 0
+vertex 590 455 0
+triangle
+color 64 0 0
+vertex 649 343 0
+color 52 0 0
+vertex 643 311 0
+color 60 0 0
+vertex 616 363 0
+color 0 0 0
+polyline 4 1
+vertex 649 343 0
+vertex 643 311 0
+vertex 616 363 0
+vertex 649 343 0
+triangle
+color 47 0 0
+vertex 531 258 0
+color 64 0 0
+vertex 509 293 0
+color 49 0 0
+vertex 553 298 0
+color 0 0 0
+polyline 4 1
+vertex 531 258 0
+vertex 509 293 0
+vertex 553 298 0
+vertex 531 258 0
+triangle
+color 64 0 0
+vertex 509 293 0
+color 47 0 0
+vertex 531 258 0
+color 62 0 0
+vertex 493 246 0
+color 0 0 0
+polyline 4 1
+vertex 509 293 0
+vertex 531 258 0
+vertex 493 246 0
+vertex 509 293 0
+triangle
+color 55 0 0
+vertex 683 171 0
+color 47 0 0
+vertex 670 220 0
+color 64 0 0
+vertex 703 234 0
+color 0 0 0
+polyline 4 1
+vertex 683 171 0
+vertex 670 220 0
+vertex 703 234 0
+vertex 683 171 0
+triangle
+color 47 0 0
+vertex 670 220 0
+color 53 0 0
+vertex 675 269 0
+color 64 0 0
+vertex 703 234 0
+color 0 0 0
+polyline 4 1
+vertex 670 220 0
+vertex 675 269 0
+vertex 703 234 0
+vertex 670 220 0
+triangle
+color 51 0 0
+vertex 555 114 0
+color 66 0 0
+vertex 523 106 0
+color 49 0 0
+vertex 530 157 0
+color 0 0 0
+polyline 4 1
+vertex 555 114 0
+vertex 523 106 0
+vertex 530 157 0
+vertex 555 114 0
+triangle
+color 66 0 0
+vertex 523 106 0
+color 66 0 0
+vertex 497 149 0
+color 49 0 0
+vertex 530 157 0
+color 0 0 0
+polyline 4 1
+vertex 523 106 0
+vertex 497 149 0
+vertex 530 157 0
+vertex 523 106 0
+triangle
+color 66 0 0
+vertex 497 149 0
+color 55 0 0
+vertex 503 203 0
+color 49 0 0
+vertex 530 157 0
+color 0 0 0
+polyline 4 1
+vertex 497 149 0
+vertex 503 203 0
+vertex 530 157 0
+vertex 497 149 0
+triangle
+color 50 0 0
+vertex 594 106 0
+color 50 0 0
+vertex 637 128 0
+color 66 0 0
+vertex 629 77 0
+color 0 0 0
+polyline 4 1
+vertex 594 106 0
+vertex 637 128 0
+vertex 629 77 0
+vertex 594 106 0
+triangle
+color 51 0 0
+vertex 555 114 0
+color 66 0 0
+vertex 574 73 0
+color 66 0 0
+vertex 523 106 0
+color 0 0 0
+polyline 4 1
+vertex 555 114 0
+vertex 574 73 0
+vertex 523 106 0
+vertex 555 114 0
+triangle
+color 66 0 0
+vertex 574 73 0
+color 51 0 0
+vertex 555 114 0
+color 50 0 0
+vertex 594 106 0
+color 0 0 0
+polyline 4 1
+vertex 574 73 0
+vertex 555 114 0
+vertex 594 106 0
+vertex 574 73 0
+triangle
+color 50 0 0
+vertex 594 106 0
+color 66 0 0
+vertex 629 77 0
+color 66 0 0
+vertex 574 73 0
+color 0 0 0
+polyline 4 1
+vertex 594 106 0
+vertex 629 77 0
+vertex 574 73 0
+vertex 594 106 0
+triangle
+color 56 0 0
+vertex 624 413 0
+color 59 0 0
+vertex 645 461 0
+color 67 0 0
+vertex 660 425 0
+color 0 0 0
+polyline 4 1
+vertex 624 413 0
+vertex 645 461 0
+vertex 660 425 0
+vertex 624 413 0
+triangle
+color 54 0 0
+vertex 585 408 0
+color 61 0 0
+vertex 570 360 0
+color 67 0 0
+vertex 542 398 0
+color 0 0 0
+polyline 4 1
+vertex 585 408 0
+vertex 570 360 0
+vertex 542 398 0
+vertex 585 408 0
+triangle
+color 54 0 0
+vertex 585 408 0
+color 67 0 0
+vertex 542 398 0
+color 57 0 0
+vertex 551 435 0
+color 0 0 0
+polyline 4 1
+vertex 585 408 0
+vertex 542 398 0
+vertex 551 435 0
+vertex 585 408 0
+triangle
+color 55 0 0
+vertex 683 171 0
+color 68 0 0
+vertex 687 123 0
+color 50 0 0
+vertex 637 128 0
+color 0 0 0
+polyline 4 1
+vertex 683 171 0
+vertex 687 123 0
+vertex 637 128 0
+vertex 683 171 0
+triangle
+color 64 0 0
+vertex 509 293 0
+color 68 0 0
+vertex 532 337 0
+color 49 0 0
+vertex 553 298 0
+color 0 0 0
+polyline 4 1
+vertex 509 293 0
+vertex 532 337 0
+vertex 553 298 0
+vertex 509 293 0
+triangle
+color 49 0 0
+vertex 553 298 0
+color 68 0 0
+vertex 532 337 0
+color 61 0 0
+vertex 570 360 0
+color 0 0 0
+polyline 4 1
+vertex 553 298 0
+vertex 532 337 0
+vertex 570 360 0
+vertex 553 298 0
+triangle
+color 66 0 0
+vertex 629 77 0
+color 50 0 0
+vertex 637 128 0
+color 69 0 0
+vertex 664 92 0
+color 0 0 0
+polyline 4 1
+vertex 629 77 0
+vertex 637 128 0
+vertex 664 92 0
+vertex 629 77 0
+triangle
+color 68 0 0
+vertex 687 123 0
+color 69 0 0
+vertex 664 92 0
+color 50 0 0
+vertex 637 128 0
+color 0 0 0
+polyline 4 1
+vertex 687 123 0
+vertex 664 92 0
+vertex 637 128 0
+vertex 687 123 0
+triangle
+color 64 0 0
+vertex 619 503 0
+color 62 0 0
+vertex 562 497 0
+color 70 0 0
+vertex 582 522 0
+color 0 0 0
+polyline 4 1
+vertex 619 503 0
+vertex 562 497 0
+vertex 582 522 0
+vertex 619 503 0
+triangle
+color 64 0 0
+vertex 649 343 0
+color 71 0 0
+vertex 682 314 0
+color 52 0 0
+vertex 643 311 0
+color 0 0 0
+polyline 4 1
+vertex 649 343 0
+vertex 682 314 0
+vertex 643 311 0
+vertex 649 343 0
+triangle
+color 64 0 0
+vertex 703 234 0
+color 53 0 0
+vertex 675 269 0
+color 71 0 0
+vertex 682 314 0
+color 0 0 0
+polyline 4 1
+vertex 703 234 0
+vertex 675 269 0
+vertex 682 314 0
+vertex 703 234 0
+triangle
+color 52 0 0
+vertex 643 311 0
+color 71 0 0
+vertex 682 314 0
+color 53 0 0
+vertex 675 269 0
+color 0 0 0
+polyline 4 1
+vertex 643 311 0
+vertex 682 314 0
+vertex 675 269 0
+vertex 643 311 0
+triangle
+color 60 0 0
+vertex 616 363 0
+color 56 0 0
+vertex 624 413 0
+color 72 0 0
+vertex 649 374 0
+color 0 0 0
+polyline 4 1
+vertex 616 363 0
+vertex 624 413 0
+vertex 649 374 0
+vertex 616 363 0
+triangle
+color 72 0 0
+vertex 649 374 0
+color 64 0 0
+vertex 649 343 0
+color 60 0 0
+vertex 616 363 0
+color 0 0 0
+polyline 4 1
+vertex 649 374 0
+vertex 649 343 0
+vertex 616 363 0
+vertex 649 374 0
+triangle
+color 64 0 0
+vertex 649 343 0
+color 72 0 0
+vertex 649 374 0
+color 71 0 0
+vertex 682 314 0
+color 0 0 0
+polyline 4 1
+vertex 649 343 0
+vertex 649 374 0
+vertex 682 314 0
+vertex 649 343 0
+triangle
+color 67 0 0
+vertex 660 425 0
+color 72 0 0
+vertex 649 374 0
+color 56 0 0
+vertex 624 413 0
+color 0 0 0
+polyline 4 1
+vertex 660 425 0
+vertex 649 374 0
+vertex 624 413 0
+vertex 660 425 0
+triangle
+color 72 0 0
+vertex 545 368 0
+color 61 0 0
+vertex 570 360 0
+color 68 0 0
+vertex 532 337 0
+color 0 0 0
+polyline 4 1
+vertex 545 368 0
+vertex 570 360 0
+vertex 532 337 0
+vertex 545 368 0
+triangle
+color 67 0 0
+vertex 542 398 0
+color 61 0 0
+vertex 570 360 0
+color 72 0 0
+vertex 545 368 0
+color 0 0 0
+polyline 4 1
+vertex 542 398 0
+vertex 570 360 0
+vertex 545 368 0
+vertex 542 398 0
+triangle
+color 55 0 0
+vertex 683 171 0
+color 64 0 0
+vertex 703 234 0
+color 73 0 0
+vertex 711 169 0
+color 0 0 0
+polyline 4 1
+vertex 683 171 0
+vertex 703 234 0
+vertex 711 169 0
+vertex 683 171 0
+triangle
+color 68 0 0
+vertex 687 123 0
+color 55 0 0
+vertex 683 171 0
+color 73 0 0
+vertex 711 169 0
+color 0 0 0
+polyline 4 1
+vertex 687 123 0
+vertex 683 171 0
+vertex 711 169 0
+vertex 687 123 0
+triangle
+color 59 0 0
+vertex 546 466 0
+color 73 0 0
+vertex 523 488 0
+color 62 0 0
+vertex 562 497 0
+color 0 0 0
+polyline 4 1
+vertex 546 466 0
+vertex 523 488 0
+vertex 562 497 0
+vertex 546 466 0
+triangle
+color 64 0 0
+vertex 619 503 0
+color 75 0 0
+vertex 667 503 0
+color 59 0 0
+vertex 645 461 0
+color 0 0 0
+polyline 4 1
+vertex 619 503 0
+vertex 667 503 0
+vertex 645 461 0
+vertex 619 503 0
+triangle
+color 75 0 0
+vertex 684 467 0
+color 59 0 0
+vertex 645 461 0
+color 75 0 0
+vertex 667 503 0
+color 0 0 0
+polyline 4 1
+vertex 684 467 0
+vertex 645 461 0
+vertex 667 503 0
+vertex 684 467 0
+triangle
+color 67 0 0
+vertex 660 425 0
+color 59 0 0
+vertex 645 461 0
+color 75 0 0
+vertex 684 467 0
+color 0 0 0
+polyline 4 1
+vertex 660 425 0
+vertex 645 461 0
+vertex 684 467 0
+vertex 660 425 0
+triangle
+color 62 0 0
+vertex 562 497 0
+color 76 0 0
+vertex 537 518 0
+color 70 0 0
+vertex 582 522 0
+color 0 0 0
+polyline 4 1
+vertex 562 497 0
+vertex 537 518 0
+vertex 582 522 0
+vertex 562 497 0
+triangle
+color 62 0 0
+vertex 562 497 0
+color 73 0 0
+vertex 523 488 0
+color 76 0 0
+vertex 537 518 0
+color 0 0 0
+polyline 4 1
+vertex 562 497 0
+vertex 523 488 0
+vertex 537 518 0
+vertex 562 497 0
+triangle
+color 78 0 0
+vertex 479 188 0
+color 55 0 0
+vertex 503 203 0
+color 66 0 0
+vertex 497 149 0
+color 0 0 0
+polyline 4 1
+vertex 479 188 0
+vertex 503 203 0
+vertex 497 149 0
+vertex 479 188 0
+triangle
+color 55 0 0
+vertex 503 203 0
+color 78 0 0
+vertex 479 188 0
+color 62 0 0
+vertex 493 246 0
+color 0 0 0
+polyline 4 1
+vertex 503 203 0
+vertex 479 188 0
+vertex 493 246 0
+vertex 503 203 0
+triangle
+color 75 0 0
+vertex 667 503 0
+color 78 0 0
+vertex 709 497 0
+color 75 0 0
+vertex 684 467 0
+color 0 0 0
+polyline 4 1
+vertex 667 503 0
+vertex 709 497 0
+vertex 684 467 0
+vertex 667 503 0
+triangle
+color 57 0 0
+vertex 551 435 0
+color 79 0 0
+vertex 515 446 0
+color 59 0 0
+vertex 546 466 0
+color 0 0 0
+polyline 4 1
+vertex 551 435 0
+vertex 515 446 0
+vertex 546 466 0
+vertex 551 435 0
+triangle
+color 57 0 0
+vertex 551 435 0
+color 67 0 0
+vertex 542 398 0
+color 79 0 0
+vertex 515 446 0
+color 0 0 0
+polyline 4 1
+vertex 551 435 0
+vertex 542 398 0
+vertex 515 446 0
+vertex 551 435 0
+triangle
+color 59 0 0
+vertex 546 466 0
+color 79 0 0
+vertex 515 446 0
+color 73 0 0
+vertex 523 488 0
+color 0 0 0
+polyline 4 1
+vertex 546 466 0
+vertex 515 446 0
+vertex 523 488 0
+vertex 546 466 0
+triangle
+color 80 0 0
+vertex 481 262 0
+color 62 0 0
+vertex 493 246 0
+color 78 0 0
+vertex 479 188 0
+color 0 0 0
+polyline 4 1
+vertex 481 262 0
+vertex 493 246 0
+vertex 479 188 0
+vertex 481 262 0
+triangle
+color 80 0 0
+vertex 481 262 0
+color 64 0 0
+vertex 509 293 0
+color 62 0 0
+vertex 493 246 0
+color 0 0 0
+polyline 4 1
+vertex 481 262 0
+vertex 509 293 0
+vertex 493 246 0
+vertex 481 262 0
+triangle
+color 80 0 0
+vertex 548 538 0
+color 76 0 0
+vertex 537 518 0
+color 79 0 0
+vertex 504 532 0
+color 0 0 0
+polyline 4 1
+vertex 548 538 0
+vertex 537 518 0
+vertex 504 532 0
+vertex 548 538 0
+triangle
+color 70 0 0
+vertex 582 522 0
+color 76 0 0
+vertex 537 518 0
+color 80 0 0
+vertex 548 538 0
+color 0 0 0
+polyline 4 1
+vertex 582 522 0
+vertex 537 518 0
+vertex 548 538 0
+vertex 582 522 0
+triangle
+color 73 0 0
+vertex 523 488 0
+color 81 0 0
+vertex 502 493 0
+color 76 0 0
+vertex 537 518 0
+color 0 0 0
+polyline 4 1
+vertex 523 488 0
+vertex 502 493 0
+vertex 537 518 0
+vertex 523 488 0
+triangle
+color 79 0 0
+vertex 504 532 0
+color 76 0 0
+vertex 537 518 0
+color 81 0 0
+vertex 502 493 0
+color 0 0 0
+polyline 4 1
+vertex 504 532 0
+vertex 537 518 0
+vertex 502 493 0
+vertex 504 532 0
+triangle
+color 81 0 0
+vertex 502 493 0
+color 73 0 0
+vertex 523 488 0
+color 79 0 0
+vertex 515 446 0
+color 0 0 0
+polyline 4 1
+vertex 502 493 0
+vertex 523 488 0
+vertex 515 446 0
+vertex 502 493 0
+triangle
+color 81 0 0
+vertex 717 466 0
+color 75 0 0
+vertex 684 467 0
+color 78 0 0
+vertex 709 497 0
+color 0 0 0
+polyline 4 1
+vertex 717 466 0
+vertex 684 467 0
+vertex 709 497 0
+vertex 717 466 0
+triangle
+color 82 0 0
+vertex 653 521 0
+color 75 0 0
+vertex 667 503 0
+color 64 0 0
+vertex 619 503 0
+color 0 0 0
+polyline 4 1
+vertex 653 521 0
+vertex 667 503 0
+vertex 619 503 0
+vertex 653 521 0
+triangle
+color 80 0 0
+vertex 548 538 0
+color 79 0 0
+vertex 504 532 0
+color 82 0 0
+vertex 503 560 0
+color 0 0 0
+polyline 4 1
+vertex 548 538 0
+vertex 504 532 0
+vertex 503 560 0
+vertex 548 538 0
+triangle
+color 82 0 0
+vertex 653 521 0
+color 83 0 0
+vertex 688 528 0
+color 75 0 0
+vertex 667 503 0
+color 0 0 0
+polyline 4 1
+vertex 653 521 0
+vertex 688 528 0
+vertex 667 503 0
+vertex 653 521 0
+triangle
+color 83 0 0
+vertex 728 521 0
+color 78 0 0
+vertex 709 497 0
+color 83 0 0
+vertex 688 528 0
+color 0 0 0
+polyline 4 1
+vertex 728 521 0
+vertex 709 497 0
+vertex 688 528 0
+vertex 728 521 0
+triangle
+color 78 0 0
+vertex 709 497 0
+color 75 0 0
+vertex 667 503 0
+color 83 0 0
+vertex 688 528 0
+color 0 0 0
+polyline 4 1
+vertex 709 497 0
+vertex 667 503 0
+vertex 688 528 0
+vertex 709 497 0
+triangle
+color 83 0 0
+vertex 738 486 0
+color 81 0 0
+vertex 717 466 0
+color 78 0 0
+vertex 709 497 0
+color 0 0 0
+polyline 4 1
+vertex 738 486 0
+vertex 717 466 0
+vertex 709 497 0
+vertex 738 486 0
+triangle
+color 83 0 0
+vertex 728 521 0
+color 83 0 0
+vertex 738 486 0
+color 78 0 0
+vertex 709 497 0
+color 0 0 0
+polyline 4 1
+vertex 728 521 0
+vertex 738 486 0
+vertex 709 497 0
+vertex 728 521 0
+triangle
+color 81 0 0
+vertex 502 493 0
+color 84 0 0
+vertex 473 529 0
+color 79 0 0
+vertex 504 532 0
+color 0 0 0
+polyline 4 1
+vertex 502 493 0
+vertex 473 529 0
+vertex 504 532 0
+vertex 502 493 0
+triangle
+color 79 0 0
+vertex 504 532 0
+color 84 0 0
+vertex 473 529 0
+color 82 0 0
+vertex 503 560 0
+color 0 0 0
+polyline 4 1
+vertex 504 532 0
+vertex 473 529 0
+vertex 503 560 0
+vertex 504 532 0
+triangle
+color 72 0 0
+vertex 545 368 0
+color 68 0 0
+vertex 532 337 0
+color 84 0 0
+vertex 531 366 0
+color 0 0 0
+polyline 4 1
+vertex 545 368 0
+vertex 532 337 0
+vertex 531 366 0
+vertex 545 368 0
+triangle
+color 72 0 0
+vertex 545 368 0
+color 84 0 0
+vertex 531 366 0
+color 67 0 0
+vertex 542 398 0
+color 0 0 0
+polyline 4 1
+vertex 545 368 0
+vertex 531 366 0
+vertex 542 398 0
+vertex 545 368 0
+triangle
+color 67 0 0
+vertex 660 425 0
+color 75 0 0
+vertex 684 467 0
+color 84 0 0
+vertex 690 444 0
+color 0 0 0
+polyline 4 1
+vertex 660 425 0
+vertex 684 467 0
+vertex 690 444 0
+vertex 660 425 0
+triangle
+color 75 0 0
+vertex 684 467 0
+color 81 0 0
+vertex 717 466 0
+color 84 0 0
+vertex 690 444 0
+color 0 0 0
+polyline 4 1
+vertex 684 467 0
+vertex 717 466 0
+vertex 690 444 0
+vertex 684 467 0
+triangle
+color 85 0 0
+vertex 670 404 0
+color 67 0 0
+vertex 660 425 0
+color 84 0 0
+vertex 690 444 0
+color 0 0 0
+polyline 4 1
+vertex 670 404 0
+vertex 660 425 0
+vertex 690 444 0
+vertex 670 404 0
+triangle
+color 85 0 0
+vertex 670 404 0
+color 72 0 0
+vertex 649 374 0
+color 67 0 0
+vertex 660 425 0
+color 0 0 0
+polyline 4 1
+vertex 670 404 0
+vertex 649 374 0
+vertex 660 425 0
+vertex 670 404 0
+triangle
+color 64 0 0
+vertex 703 234 0
+color 85 0 0
+vertex 723 198 0
+color 73 0 0
+vertex 711 169 0
+color 0 0 0
+polyline 4 1
+vertex 703 234 0
+vertex 723 198 0
+vertex 711 169 0
+vertex 703 234 0
+triangle
+color 86 0 0
+vertex 478 560 0
+color 82 0 0
+vertex 503 560 0
+color 84 0 0
+vertex 473 529 0
+color 0 0 0
+polyline 4 1
+vertex 478 560 0
+vertex 503 560 0
+vertex 473 529 0
+vertex 478 560 0
+triangle
+color 83 0 0
+vertex 738 486 0
+color 83 0 0
+vertex 728 521 0
+color 86 0 0
+vertex 746 502 0
+color 0 0 0
+polyline 4 1
+vertex 738 486 0
+vertex 728 521 0
+vertex 746 502 0
+vertex 738 486 0
+triangle
+color 86 0 0
+vertex 535 557 0
+color 80 0 0
+vertex 548 538 0
+color 82 0 0
+vertex 503 560 0
+color 0 0 0
+polyline 4 1
+vertex 535 557 0
+vertex 548 538 0
+vertex 503 560 0
+vertex 535 557 0
+triangle
+color 66 0 0
+vertex 574 73 0
+color 86 0 0
+vertex 530 70 0
+color 66 0 0
+vertex 523 106 0
+color 0 0 0
+polyline 4 1
+vertex 574 73 0
+vertex 530 70 0
+vertex 523 106 0
+vertex 574 73 0
+triangle
+color 72 0 0
+vertex 649 374 0
+color 85 0 0
+vertex 670 404 0
+color 86 0 0
+vertex 664 364 0
+color 0 0 0
+polyline 4 1
+vertex 649 374 0
+vertex 670 404 0
+vertex 664 364 0
+vertex 649 374 0
+triangle
+color 71 0 0
+vertex 682 314 0
+color 72 0 0
+vertex 649 374 0
+color 86 0 0
+vertex 664 364 0
+color 0 0 0
+polyline 4 1
+vertex 682 314 0
+vertex 649 374 0
+vertex 664 364 0
+vertex 682 314 0
+triangle
+color 86 0 0
+vertex 530 70 0
+color 66 0 0
+vertex 574 73 0
+color 86 0 0
+vertex 565 55 0
+color 0 0 0
+polyline 4 1
+vertex 530 70 0
+vertex 574 73 0
+vertex 565 55 0
+vertex 530 70 0
+triangle
+color 87 0 0
+vertex 522 398 0
+color 67 0 0
+vertex 542 398 0
+color 84 0 0
+vertex 531 366 0
+color 0 0 0
+polyline 4 1
+vertex 522 398 0
+vertex 542 398 0
+vertex 531 366 0
+vertex 522 398 0
+triangle
+color 67 0 0
+vertex 542 398 0
+color 87 0 0
+vertex 522 398 0
+color 79 0 0
+vertex 515 446 0
+color 0 0 0
+polyline 4 1
+vertex 542 398 0
+vertex 522 398 0
+vertex 515 446 0
+vertex 542 398 0
+triangle
+color 66 0 0
+vertex 497 149 0
+color 66 0 0
+vertex 523 106 0
+color 87 0 0
+vertex 498 110 0
+color 0 0 0
+polyline 4 1
+vertex 497 149 0
+vertex 523 106 0
+vertex 498 110 0
+vertex 497 149 0
+triangle
+color 66 0 0
+vertex 497 149 0
+color 87 0 0
+vertex 498 110 0
+color 78 0 0
+vertex 479 188 0
+color 0 0 0
+polyline 4 1
+vertex 497 149 0
+vertex 498 110 0
+vertex 479 188 0
+vertex 497 149 0
+triangle
+color 66 0 0
+vertex 523 106 0
+color 86 0 0
+vertex 530 70 0
+color 87 0 0
+vertex 498 110 0
+color 0 0 0
+polyline 4 1
+vertex 523 106 0
+vertex 530 70 0
+vertex 498 110 0
+vertex 523 106 0
+triangle
+color 64 0 0
+vertex 619 503 0
+color 70 0 0
+vertex 582 522 0
+color 87 0 0
+vertex 607 532 0
+color 0 0 0
+polyline 4 1
+vertex 619 503 0
+vertex 582 522 0
+vertex 607 532 0
+vertex 619 503 0
+triangle
+color 82 0 0
+vertex 653 521 0
+color 64 0 0
+vertex 619 503 0
+color 87 0 0
+vertex 607 532 0
+color 0 0 0
+polyline 4 1
+vertex 653 521 0
+vertex 619 503 0
+vertex 607 532 0
+vertex 653 521 0
+triangle
+color 80 0 0
+vertex 548 538 0
+color 87 0 0
+vertex 607 532 0
+color 70 0 0
+vertex 582 522 0
+color 0 0 0
+polyline 4 1
+vertex 548 538 0
+vertex 607 532 0
+vertex 582 522 0
+vertex 548 538 0
+triangle
+color 66 0 0
+vertex 574 73 0
+color 66 0 0
+vertex 629 77 0
+color 87 0 0
+vertex 606 53 0
+color 0 0 0
+polyline 4 1
+vertex 574 73 0
+vertex 629 77 0
+vertex 606 53 0
+vertex 574 73 0
+triangle
+color 87 0 0
+vertex 606 53 0
+color 86 0 0
+vertex 565 55 0
+color 66 0 0
+vertex 574 73 0
+color 0 0 0
+polyline 4 1
+vertex 606 53 0
+vertex 565 55 0
+vertex 574 73 0
+vertex 606 53 0
+triangle
+color 88 0 0
+vertex 662 65 0
+color 66 0 0
+vertex 629 77 0
+color 69 0 0
+vertex 664 92 0
+color 0 0 0
+polyline 4 1
+vertex 662 65 0
+vertex 629 77 0
+vertex 664 92 0
+vertex 662 65 0
+triangle
+color 66 0 0
+vertex 629 77 0
+color 88 0 0
+vertex 662 65 0
+color 87 0 0
+vertex 606 53 0
+color 0 0 0
+polyline 4 1
+vertex 629 77 0
+vertex 662 65 0
+vertex 606 53 0
+vertex 629 77 0
+triangle
+color 88 0 0
+vertex 740 518 0
+color 83 0 0
+vertex 728 521 0
+color 87 0 0
+vertex 727 532 0
+color 0 0 0
+polyline 4 1
+vertex 740 518 0
+vertex 728 521 0
+vertex 727 532 0
+vertex 740 518 0
+triangle
+color 88 0 0
+vertex 740 518 0
+color 86 0 0
+vertex 746 502 0
+color 83 0 0
+vertex 728 521 0
+color 0 0 0
+polyline 4 1
+vertex 740 518 0
+vertex 746 502 0
+vertex 728 521 0
+vertex 740 518 0
+triangle
+color 82 0 0
+vertex 503 560 0
+color 86 0 0
+vertex 478 560 0
+color 88 0 0
+vertex 506 570 0
+color 0 0 0
+polyline 4 1
+vertex 503 560 0
+vertex 478 560 0
+vertex 506 570 0
+vertex 503 560 0
+triangle
+color 86 0 0
+vertex 535 557 0
+color 82 0 0
+vertex 503 560 0
+color 88 0 0
+vertex 506 570 0
+color 0 0 0
+polyline 4 1
+vertex 535 557 0
+vertex 503 560 0
+vertex 506 570 0
+vertex 535 557 0
+triangle
+color 73 0 0
+vertex 711 169 0
+color 88 0 0
+vertex 711 136 0
+color 68 0 0
+vertex 687 123 0
+color 0 0 0
+polyline 4 1
+vertex 711 169 0
+vertex 711 136 0
+vertex 687 123 0
+vertex 711 169 0
+triangle
+color 88 0 0
+vertex 711 136 0
+color 73 0 0
+vertex 711 169 0
+color 85 0 0
+vertex 723 198 0
+color 0 0 0
+polyline 4 1
+vertex 711 136 0
+vertex 711 169 0
+vertex 723 198 0
+vertex 711 136 0
+triangle
+color 81 0 0
+vertex 502 493 0
+color 88 0 0
+vertex 479 503 0
+color 84 0 0
+vertex 473 529 0
+color 0 0 0
+polyline 4 1
+vertex 502 493 0
+vertex 479 503 0
+vertex 473 529 0
+vertex 502 493 0
+triangle
+color 83 0 0
+vertex 738 486 0
+color 88 0 0
+vertex 723 464 0
+color 81 0 0
+vertex 717 466 0
+color 0 0 0
+polyline 4 1
+vertex 738 486 0
+vertex 723 464 0
+vertex 717 466 0
+vertex 738 486 0
+triangle
+color 81 0 0
+vertex 717 466 0
+color 88 0 0
+vertex 723 464 0
+color 84 0 0
+vertex 690 444 0
+color 0 0 0
+polyline 4 1
+vertex 717 466 0
+vertex 723 464 0
+vertex 690 444 0
+vertex 717 466 0
+triangle
+color 85 0 0
+vertex 723 198 0
+color 64 0 0
+vertex 703 234 0
+color 89 0 0
+vertex 717 261 0
+color 0 0 0
+polyline 4 1
+vertex 723 198 0
+vertex 703 234 0
+vertex 717 261 0
+vertex 723 198 0
+triangle
+color 89 0 0
+vertex 717 261 0
+color 64 0 0
+vertex 703 234 0
+color 71 0 0
+vertex 682 314 0
+color 0 0 0
+polyline 4 1
+vertex 717 261 0
+vertex 703 234 0
+vertex 682 314 0
+vertex 717 261 0
+triangle
+color 87 0 0
+vertex 727 532 0
+color 83 0 0
+vertex 728 521 0
+color 89 0 0
+vertex 705 534 0
+color 0 0 0
+polyline 4 1
+vertex 727 532 0
+vertex 728 521 0
+vertex 705 534 0
+vertex 727 532 0
+triangle
+color 83 0 0
+vertex 728 521 0
+color 83 0 0
+vertex 688 528 0
+color 89 0 0
+vertex 705 534 0
+color 0 0 0
+polyline 4 1
+vertex 728 521 0
+vertex 688 528 0
+vertex 705 534 0
+vertex 728 521 0
+triangle
+color 84 0 0
+vertex 473 529 0
+color 89 0 0
+vertex 468 545 0
+color 86 0 0
+vertex 478 560 0
+color 0 0 0
+polyline 4 1
+vertex 473 529 0
+vertex 468 545 0
+vertex 478 560 0
+vertex 473 529 0
+triangle
+color 87 0 0
+vertex 607 532 0
+color 80 0 0
+vertex 548 538 0
+color 90 0 0
+vertex 561 540 0
+color 0 0 0
+polyline 4 1
+vertex 607 532 0
+vertex 548 538 0
+vertex 561 540 0
+vertex 607 532 0
+triangle
+color 80 0 0
+vertex 548 538 0
+color 86 0 0
+vertex 535 557 0
+color 90 0 0
+vertex 561 540 0
+color 0 0 0
+polyline 4 1
+vertex 548 538 0
+vertex 535 557 0
+vertex 561 540 0
+vertex 548 538 0
+triangle
+color 91 0 0
+vertex 741 492 0
+color 88 0 0
+vertex 723 464 0
+color 83 0 0
+vertex 738 486 0
+color 0 0 0
+polyline 4 1
+vertex 741 492 0
+vertex 723 464 0
+vertex 738 486 0
+vertex 741 492 0
+triangle
+color 83 0 0
+vertex 738 486 0
+color 86 0 0
+vertex 746 502 0
+color 91 0 0
+vertex 741 492 0
+color 0 0 0
+polyline 4 1
+vertex 738 486 0
+vertex 746 502 0
+vertex 741 492 0
+vertex 738 486 0
+triangle
+color 91 0 0
+vertex 741 492 0
+color 86 0 0
+vertex 746 502 0
+color 88 0 0
+vertex 740 518 0
+color 0 0 0
+polyline 4 1
+vertex 741 492 0
+vertex 746 502 0
+vertex 740 518 0
+vertex 741 492 0
+triangle
+color 88 0 0
+vertex 506 570 0
+color 91 0 0
+vertex 530 561 0
+color 86 0 0
+vertex 535 557 0
+color 0 0 0
+polyline 4 1
+vertex 506 570 0
+vertex 530 561 0
+vertex 535 557 0
+vertex 506 570 0
+triangle
+color 91 0 0
+vertex 501 480 0
+color 81 0 0
+vertex 502 493 0
+color 79 0 0
+vertex 515 446 0
+color 0 0 0
+polyline 4 1
+vertex 501 480 0
+vertex 502 493 0
+vertex 515 446 0
+vertex 501 480 0
+triangle
+color 81 0 0
+vertex 502 493 0
+color 91 0 0
+vertex 501 480 0
+color 88 0 0
+vertex 479 503 0
+color 0 0 0
+polyline 4 1
+vertex 502 493 0
+vertex 501 480 0
+vertex 479 503 0
+vertex 502 493 0
+triangle
+color 84 0 0
+vertex 473 529 0
+color 91 0 0
+vertex 471 525 0
+color 89 0 0
+vertex 468 545 0
+color 0 0 0
+polyline 4 1
+vertex 473 529 0
+vertex 471 525 0
+vertex 468 545 0
+vertex 473 529 0
+triangle
+color 84 0 0
+vertex 473 529 0
+color 88 0 0
+vertex 479 503 0
+color 91 0 0
+vertex 471 525 0
+color 0 0 0
+polyline 4 1
+vertex 473 529 0
+vertex 479 503 0
+vertex 471 525 0
+vertex 473 529 0
+triangle
+color 88 0 0
+vertex 506 570 0
+color 86 0 0
+vertex 478 560 0
+color 92 0 0
+vertex 484 561 0
+color 0 0 0
+polyline 4 1
+vertex 506 570 0
+vertex 478 560 0
+vertex 484 561 0
+vertex 506 570 0
+triangle
+color 89 0 0
+vertex 468 545 0
+color 92 0 0
+vertex 484 561 0
+color 86 0 0
+vertex 478 560 0
+color 0 0 0
+polyline 4 1
+vertex 468 545 0
+vertex 484 561 0
+vertex 478 560 0
+vertex 468 545 0
+triangle
+color 93 0 0
+vertex 728 518 0
+color 87 0 0
+vertex 727 532 0
+color 89 0 0
+vertex 705 534 0
+color 0 0 0
+polyline 4 1
+vertex 728 518 0
+vertex 727 532 0
+vertex 705 534 0
+vertex 728 518 0
+triangle
+color 88 0 0
+vertex 740 518 0
+color 93 0 0
+vertex 728 518 0
+color 91 0 0
+vertex 741 492 0
+color 0 0 0
+polyline 4 1
+vertex 740 518 0
+vertex 728 518 0
+vertex 741 492 0
+vertex 740 518 0
+triangle
+color 88 0 0
+vertex 740 518 0
+color 87 0 0
+vertex 727 532 0
+color 93 0 0
+vertex 728 518 0
+color 0 0 0
+polyline 4 1
+vertex 740 518 0
+vertex 727 532 0
+vertex 728 518 0
+vertex 740 518 0
+triangle
+color 68 0 0
+vertex 687 123 0
+color 93 0 0
+vertex 694 91 0
+color 69 0 0
+vertex 664 92 0
+color 0 0 0
+polyline 4 1
+vertex 687 123 0
+vertex 694 91 0
+vertex 664 92 0
+vertex 687 123 0
+triangle
+color 68 0 0
+vertex 687 123 0
+color 88 0 0
+vertex 711 136 0
+color 93 0 0
+vertex 694 91 0
+color 0 0 0
+polyline 4 1
+vertex 687 123 0
+vertex 711 136 0
+vertex 694 91 0
+vertex 687 123 0
+triangle
+color 93 0 0
+vertex 694 91 0
+color 88 0 0
+vertex 662 65 0
+color 69 0 0
+vertex 664 92 0
+color 0 0 0
+polyline 4 1
+vertex 694 91 0
+vertex 662 65 0
+vertex 664 92 0
+vertex 694 91 0
+triangle
+color 68 0 0
+vertex 532 337 0
+color 94 0 0
+vertex 500 311 0
+color 84 0 0
+vertex 531 366 0
+color 0 0 0
+polyline 4 1
+vertex 532 337 0
+vertex 500 311 0
+vertex 531 366 0
+vertex 532 337 0
+triangle
+color 64 0 0
+vertex 509 293 0
+color 80 0 0
+vertex 481 262 0
+color 94 0 0
+vertex 500 311 0
+color 0 0 0
+polyline 4 1
+vertex 509 293 0
+vertex 481 262 0
+vertex 500 311 0
+vertex 509 293 0
+triangle
+color 68 0 0
+vertex 532 337 0
+color 64 0 0
+vertex 509 293 0
+color 94 0 0
+vertex 500 311 0
+color 0 0 0
+polyline 4 1
+vertex 532 337 0
+vertex 509 293 0
+vertex 500 311 0
+vertex 532 337 0
+triangle
+color 94 0 0
+vertex 697 453 0
+color 84 0 0
+vertex 690 444 0
+color 88 0 0
+vertex 723 464 0
+color 0 0 0
+polyline 4 1
+vertex 697 453 0
+vertex 690 444 0
+vertex 723 464 0
+vertex 697 453 0
+triangle
+color 82 0 0
+vertex 653 521 0
+color 94 0 0
+vertex 665 522 0
+color 83 0 0
+vertex 688 528 0
+color 0 0 0
+polyline 4 1
+vertex 653 521 0
+vertex 665 522 0
+vertex 688 528 0
+vertex 653 521 0
+triangle
+color 89 0 0
+vertex 705 534 0
+color 83 0 0
+vertex 688 528 0
+color 94 0 0
+vertex 665 522 0
+color 0 0 0
+polyline 4 1
+vertex 705 534 0
+vertex 688 528 0
+vertex 665 522 0
+vertex 705 534 0
+triangle
+color 94 0 0
+vertex 665 522 0
+color 82 0 0
+vertex 653 521 0
+color 87 0 0
+vertex 607 532 0
+color 0 0 0
+polyline 4 1
+vertex 665 522 0
+vertex 653 521 0
+vertex 607 532 0
+vertex 665 522 0
+triangle
+color 95 0 0
+vertex 512 555 0
+color 88 0 0
+vertex 506 570 0
+color 92 0 0
+vertex 484 561 0
+color 0 0 0
+polyline 4 1
+vertex 512 555 0
+vertex 506 570 0
+vertex 484 561 0
+vertex 512 555 0
+triangle
+color 91 0 0
+vertex 530 561 0
+color 88 0 0
+vertex 506 570 0
+color 95 0 0
+vertex 512 555 0
+color 0 0 0
+polyline 4 1
+vertex 530 561 0
+vertex 506 570 0
+vertex 512 555 0
+vertex 530 561 0
+triangle
+color 96 0 0
+vertex 720 482 0
+color 94 0 0
+vertex 697 453 0
+color 88 0 0
+vertex 723 464 0
+color 0 0 0
+polyline 4 1
+vertex 720 482 0
+vertex 697 453 0
+vertex 723 464 0
+vertex 720 482 0
+triangle
+color 88 0 0
+vertex 723 464 0
+color 91 0 0
+vertex 741 492 0
+color 96 0 0
+vertex 720 482 0
+color 0 0 0
+polyline 4 1
+vertex 723 464 0
+vertex 741 492 0
+vertex 720 482 0
+vertex 723 464 0
+triangle
+color 91 0 0
+vertex 741 492 0
+color 93 0 0
+vertex 728 518 0
+color 96 0 0
+vertex 720 482 0
+color 0 0 0
+polyline 4 1
+vertex 741 492 0
+vertex 728 518 0
+vertex 720 482 0
+vertex 741 492 0
+triangle
+color 96 0 0
+vertex 487 537 0
+color 92 0 0
+vertex 484 561 0
+color 89 0 0
+vertex 468 545 0
+color 0 0 0
+polyline 4 1
+vertex 487 537 0
+vertex 484 561 0
+vertex 468 545 0
+vertex 487 537 0
+triangle
+color 96 0 0
+vertex 487 537 0
+color 89 0 0
+vertex 468 545 0
+color 91 0 0
+vertex 471 525 0
+color 0 0 0
+polyline 4 1
+vertex 487 537 0
+vertex 468 545 0
+vertex 471 525 0
+vertex 487 537 0
+triangle
+color 95 0 0
+vertex 512 555 0
+color 92 0 0
+vertex 484 561 0
+color 96 0 0
+vertex 487 537 0
+color 0 0 0
+polyline 4 1
+vertex 512 555 0
+vertex 484 561 0
+vertex 487 537 0
+vertex 512 555 0
+triangle
+color 96 0 0
+vertex 690 324 0
+color 71 0 0
+vertex 682 314 0
+color 86 0 0
+vertex 664 364 0
+color 0 0 0
+polyline 4 1
+vertex 690 324 0
+vertex 682 314 0
+vertex 664 364 0
+vertex 690 324 0
+triangle
+color 71 0 0
+vertex 682 314 0
+color 96 0 0
+vertex 690 324 0
+color 89 0 0
+vertex 717 261 0
+color 0 0 0
+polyline 4 1
+vertex 682 314 0
+vertex 690 324 0
+vertex 717 261 0
+vertex 682 314 0
+triangle
+color 80 0 0
+vertex 481 262 0
+color 96 0 0
+vertex 475 238 0
+color 94 0 0
+vertex 500 311 0
+color 0 0 0
+polyline 4 1
+vertex 481 262 0
+vertex 475 238 0
+vertex 500 311 0
+vertex 481 262 0
+triangle
+color 96 0 0
+vertex 475 238 0
+color 80 0 0
+vertex 481 262 0
+color 78 0 0
+vertex 479 188 0
+color 0 0 0
+polyline 4 1
+vertex 475 238 0
+vertex 481 262 0
+vertex 479 188 0
+vertex 475 238 0
+triangle
+color 89 0 0
+vertex 717 261 0
+color 97 0 0
+vertex 726 223 0
+color 85 0 0
+vertex 723 198 0
+color 0 0 0
+polyline 4 1
+vertex 717 261 0
+vertex 726 223 0
+vertex 723 198 0
+vertex 717 261 0
+triangle
+color 96 0 0
+vertex 720 482 0
+color 93 0 0
+vertex 728 518 0
+color 97 0 0
+vertex 698 510 0
+color 0 0 0
+polyline 4 1
+vertex 720 482 0
+vertex 728 518 0
+vertex 698 510 0
+vertex 720 482 0
+triangle
+color 93 0 0
+vertex 728 518 0
+color 89 0 0
+vertex 705 534 0
+color 97 0 0
+vertex 698 510 0
+color 0 0 0
+polyline 4 1
+vertex 728 518 0
+vertex 705 534 0
+vertex 698 510 0
+vertex 728 518 0
+triangle
+color 97 0 0
+vertex 698 510 0
+color 89 0 0
+vertex 705 534 0
+color 94 0 0
+vertex 665 522 0
+color 0 0 0
+polyline 4 1
+vertex 698 510 0
+vertex 705 534 0
+vertex 665 522 0
+vertex 698 510 0
+triangle
+color 86 0 0
+vertex 535 557 0
+color 91 0 0
+vertex 530 561 0
+color 97 0 0
+vertex 545 539 0
+color 0 0 0
+polyline 4 1
+vertex 535 557 0
+vertex 530 561 0
+vertex 545 539 0
+vertex 535 557 0
+triangle
+color 91 0 0
+vertex 530 561 0
+color 95 0 0
+vertex 512 555 0
+color 97 0 0
+vertex 545 539 0
+color 0 0 0
+polyline 4 1
+vertex 530 561 0
+vertex 512 555 0
+vertex 545 539 0
+vertex 530 561 0
+triangle
+color 90 0 0
+vertex 561 540 0
+color 86 0 0
+vertex 535 557 0
+color 97 0 0
+vertex 545 539 0
+color 0 0 0
+polyline 4 1
+vertex 561 540 0
+vertex 535 557 0
+vertex 545 539 0
+vertex 561 540 0
+triangle
+color 87 0 0
+vertex 498 110 0
+color 98 0 0
+vertex 478 164 0
+color 78 0 0
+vertex 479 188 0
+color 0 0 0
+polyline 4 1
+vertex 498 110 0
+vertex 478 164 0
+vertex 479 188 0
+vertex 498 110 0
+triangle
+color 78 0 0
+vertex 479 188 0
+color 98 0 0
+vertex 478 164 0
+color 96 0 0
+vertex 475 238 0
+color 0 0 0
+polyline 4 1
+vertex 479 188 0
+vertex 478 164 0
+vertex 475 238 0
+vertex 479 188 0
+triangle
+color 91 0 0
+vertex 471 525 0
+color 88 0 0
+vertex 479 503 0
+color 99 0 0
+vertex 504 502 0
+color 0 0 0
+polyline 4 1
+vertex 471 525 0
+vertex 479 503 0
+vertex 504 502 0
+vertex 471 525 0
+triangle
+color 91 0 0
+vertex 471 525 0
+color 99 0 0
+vertex 504 502 0
+color 96 0 0
+vertex 487 537 0
+color 0 0 0
+polyline 4 1
+vertex 471 525 0
+vertex 504 502 0
+vertex 487 537 0
+vertex 471 525 0
+triangle
+color 88 0 0
+vertex 479 503 0
+color 91 0 0
+vertex 501 480 0
+color 99 0 0
+vertex 504 502 0
+color 0 0 0
+polyline 4 1
+vertex 479 503 0
+vertex 501 480 0
+vertex 504 502 0
+vertex 479 503 0
+triangle
+color 87 0 0
+vertex 522 398 0
+color 101 0 0
+vertex 515 417 0
+color 79 0 0
+vertex 515 446 0
+color 0 0 0
+polyline 4 1
+vertex 522 398 0
+vertex 515 417 0
+vertex 515 446 0
+vertex 522 398 0
+triangle
+color 86 0 0
+vertex 565 55 0
+color 101 0 0
+vertex 541 56 0
+color 86 0 0
+vertex 530 70 0
+color 0 0 0
+polyline 4 1
+vertex 565 55 0
+vertex 541 56 0
+vertex 530 70 0
+vertex 565 55 0
+triangle
+color 101 0 0
+vertex 521 523 0
+color 96 0 0
+vertex 487 537 0
+color 99 0 0
+vertex 504 502 0
+color 0 0 0
+polyline 4 1
+vertex 521 523 0
+vertex 487 537 0
+vertex 504 502 0
+vertex 521 523 0
+triangle
+color 101 0 0
+vertex 521 523 0
+color 95 0 0
+vertex 512 555 0
+color 96 0 0
+vertex 487 537 0
+color 0 0 0
+polyline 4 1
+vertex 521 523 0
+vertex 512 555 0
+vertex 487 537 0
+vertex 521 523 0
+triangle
+color 95 0 0
+vertex 512 555 0
+color 101 0 0
+vertex 521 523 0
+color 97 0 0
+vertex 545 539 0
+color 0 0 0
+polyline 4 1
+vertex 512 555 0
+vertex 521 523 0
+vertex 545 539 0
+vertex 512 555 0
+triangle
+color 102 0 0
+vertex 675 419 0
+color 84 0 0
+vertex 690 444 0
+color 94 0 0
+vertex 697 453 0
+color 0 0 0
+polyline 4 1
+vertex 675 419 0
+vertex 690 444 0
+vertex 697 453 0
+vertex 675 419 0
+triangle
+color 102 0 0
+vertex 675 419 0
+color 85 0 0
+vertex 670 404 0
+color 84 0 0
+vertex 690 444 0
+color 0 0 0
+polyline 4 1
+vertex 675 419 0
+vertex 670 404 0
+vertex 690 444 0
+vertex 675 419 0
+triangle
+color 94 0 0
+vertex 500 311 0
+color 102 0 0
+vertex 529 368 0
+color 84 0 0
+vertex 531 366 0
+color 0 0 0
+polyline 4 1
+vertex 500 311 0
+vertex 529 368 0
+vertex 531 366 0
+vertex 500 311 0
+triangle
+color 102 0 0
+vertex 529 368 0
+color 101 0 0
+vertex 515 417 0
+color 87 0 0
+vertex 522 398 0
+color 0 0 0
+polyline 4 1
+vertex 529 368 0
+vertex 515 417 0
+vertex 522 398 0
+vertex 529 368 0
+triangle
+color 84 0 0
+vertex 531 366 0
+color 102 0 0
+vertex 529 368 0
+color 87 0 0
+vertex 522 398 0
+color 0 0 0
+polyline 4 1
+vertex 531 366 0
+vertex 529 368 0
+vertex 522 398 0
+vertex 531 366 0
+triangle
+color 96 0 0
+vertex 720 482 0
+color 97 0 0
+vertex 698 510 0
+color 103 0 0
+vertex 686 468 0
+color 0 0 0
+polyline 4 1
+vertex 720 482 0
+vertex 698 510 0
+vertex 686 468 0
+vertex 720 482 0
+triangle
+color 103 0 0
+vertex 686 468 0
+color 94 0 0
+vertex 697 453 0
+color 96 0 0
+vertex 720 482 0
+color 0 0 0
+polyline 4 1
+vertex 686 468 0
+vertex 697 453 0
+vertex 720 482 0
+vertex 686 468 0
+triangle
+color 102 0 0
+vertex 675 419 0
+color 94 0 0
+vertex 697 453 0
+color 103 0 0
+vertex 686 468 0
+color 0 0 0
+polyline 4 1
+vertex 675 419 0
+vertex 697 453 0
+vertex 686 468 0
+vertex 675 419 0
+triangle
+color 86 0 0
+vertex 530 70 0
+color 104 0 0
+vertex 501 79 0
+color 87 0 0
+vertex 498 110 0
+color 0 0 0
+polyline 4 1
+vertex 530 70 0
+vertex 501 79 0
+vertex 498 110 0
+vertex 530 70 0
+triangle
+color 104 0 0
+vertex 660 368 0
+color 85 0 0
+vertex 670 404 0
+color 102 0 0
+vertex 675 419 0
+color 0 0 0
+polyline 4 1
+vertex 660 368 0
+vertex 670 404 0
+vertex 675 419 0
+vertex 660 368 0
+triangle
+color 86 0 0
+vertex 664 364 0
+color 104 0 0
+vertex 660 368 0
+color 96 0 0
+vertex 690 324 0
+color 0 0 0
+polyline 4 1
+vertex 664 364 0
+vertex 660 368 0
+vertex 690 324 0
+vertex 664 364 0
+triangle
+color 85 0 0
+vertex 670 404 0
+color 104 0 0
+vertex 660 368 0
+color 86 0 0
+vertex 664 364 0
+color 0 0 0
+polyline 4 1
+vertex 670 404 0
+vertex 660 368 0
+vertex 664 364 0
+vertex 670 404 0
+triangle
+color 87 0 0
+vertex 606 53 0
+color 88 0 0
+vertex 662 65 0
+color 104 0 0
+vertex 656 55 0
+color 0 0 0
+polyline 4 1
+vertex 606 53 0
+vertex 662 65 0
+vertex 656 55 0
+vertex 606 53 0
+triangle
+color 104 0 0
+vertex 673 499 0
+color 97 0 0
+vertex 698 510 0
+color 94 0 0
+vertex 665 522 0
+color 0 0 0
+polyline 4 1
+vertex 673 499 0
+vertex 698 510 0
+vertex 665 522 0
+vertex 673 499 0
+triangle
+color 97 0 0
+vertex 698 510 0
+color 104 0 0
+vertex 673 499 0
+color 103 0 0
+vertex 686 468 0
+color 0 0 0
+polyline 4 1
+vertex 698 510 0
+vertex 673 499 0
+vertex 686 468 0
+vertex 698 510 0
+triangle
+color 88 0 0
+vertex 711 136 0
+color 85 0 0
+vertex 723 198 0
+color 104 0 0
+vertex 719 169 0
+color 0 0 0
+polyline 4 1
+vertex 711 136 0
+vertex 723 198 0
+vertex 719 169 0
+vertex 711 136 0
+triangle
+color 85 0 0
+vertex 723 198 0
+color 97 0 0
+vertex 726 223 0
+color 104 0 0
+vertex 719 169 0
+color 0 0 0
+polyline 4 1
+vertex 723 198 0
+vertex 726 223 0
+vertex 719 169 0
+vertex 723 198 0
+triangle
+color 90 0 0
+vertex 561 540 0
+color 97 0 0
+vertex 545 539 0
+color 106 0 0
+vertex 582 531 0
+color 0 0 0
+polyline 4 1
+vertex 561 540 0
+vertex 545 539 0
+vertex 582 531 0
+vertex 561 540 0
+triangle
+color 87 0 0
+vertex 607 532 0
+color 90 0 0
+vertex 561 540 0
+color 106 0 0
+vertex 582 531 0
+color 0 0 0
+polyline 4 1
+vertex 607 532 0
+vertex 561 540 0
+vertex 582 531 0
+vertex 607 532 0
+triangle
+color 91 0 0
+vertex 501 480 0
+color 108 0 0
+vertex 515 462 0
+color 99 0 0
+vertex 504 502 0
+color 0 0 0
+polyline 4 1
+vertex 501 480 0
+vertex 515 462 0
+vertex 504 502 0
+vertex 501 480 0
+triangle
+color 79 0 0
+vertex 515 446 0
+color 108 0 0
+vertex 515 462 0
+color 91 0 0
+vertex 501 480 0
+color 0 0 0
+polyline 4 1
+vertex 515 446 0
+vertex 515 462 0
+vertex 501 480 0
+vertex 515 446 0
+triangle
+color 101 0 0
+vertex 515 417 0
+color 108 0 0
+vertex 515 462 0
+color 79 0 0
+vertex 515 446 0
+color 0 0 0
+polyline 4 1
+vertex 515 417 0
+vertex 515 462 0
+vertex 515 446 0
+vertex 515 417 0
+triangle
+color 104 0 0
+vertex 501 79 0
+color 108 0 0
+vertex 494 109 0
+color 87 0 0
+vertex 498 110 0
+color 0 0 0
+polyline 4 1
+vertex 501 79 0
+vertex 494 109 0
+vertex 498 110 0
+vertex 501 79 0
+triangle
+color 87 0 0
+vertex 498 110 0
+color 108 0 0
+vertex 494 109 0
+color 98 0 0
+vertex 478 164 0
+color 0 0 0
+polyline 4 1
+vertex 498 110 0
+vertex 494 109 0
+vertex 478 164 0
+vertex 498 110 0
+triangle
+color 86 0 0
+vertex 565 55 0
+color 87 0 0
+vertex 606 53 0
+color 109 0 0
+vertex 559 57 0
+color 0 0 0
+polyline 4 1
+vertex 565 55 0
+vertex 606 53 0
+vertex 559 57 0
+vertex 565 55 0
+triangle
+color 86 0 0
+vertex 565 55 0
+color 109 0 0
+vertex 559 57 0
+color 101 0 0
+vertex 541 56 0
+color 0 0 0
+polyline 4 1
+vertex 565 55 0
+vertex 559 57 0
+vertex 541 56 0
+vertex 565 55 0
+triangle
+color 87 0 0
+vertex 606 53 0
+color 104 0 0
+vertex 656 55 0
+color 109 0 0
+vertex 607 57 0
+color 0 0 0
+polyline 4 1
+vertex 606 53 0
+vertex 656 55 0
+vertex 607 57 0
+vertex 606 53 0
+triangle
+color 87 0 0
+vertex 606 53 0
+color 109 0 0
+vertex 607 57 0
+color 109 0 0
+vertex 559 57 0
+color 0 0 0
+polyline 4 1
+vertex 606 53 0
+vertex 607 57 0
+vertex 559 57 0
+vertex 606 53 0
+triangle
+color 88 0 0
+vertex 711 136 0
+color 110 0 0
+vertex 706 111 0
+color 93 0 0
+vertex 694 91 0
+color 0 0 0
+polyline 4 1
+vertex 711 136 0
+vertex 706 111 0
+vertex 694 91 0
+vertex 711 136 0
+triangle
+color 104 0 0
+vertex 719 169 0
+color 110 0 0
+vertex 706 111 0
+color 88 0 0
+vertex 711 136 0
+color 0 0 0
+polyline 4 1
+vertex 719 169 0
+vertex 706 111 0
+vertex 711 136 0
+vertex 719 169 0
+triangle
+color 98 0 0
+vertex 478 164 0
+color 111 0 0
+vertex 480 201 0
+color 96 0 0
+vertex 475 238 0
+color 0 0 0
+polyline 4 1
+vertex 478 164 0
+vertex 480 201 0
+vertex 475 238 0
+vertex 478 164 0
+triangle
+color 93 0 0
+vertex 694 91 0
+color 112 0 0
+vertex 690 64 0
+color 88 0 0
+vertex 662 65 0
+color 0 0 0
+polyline 4 1
+vertex 694 91 0
+vertex 690 64 0
+vertex 662 65 0
+vertex 694 91 0
+triangle
+color 88 0 0
+vertex 662 65 0
+color 112 0 0
+vertex 690 64 0
+color 104 0 0
+vertex 656 55 0
+color 0 0 0
+polyline 4 1
+vertex 662 65 0
+vertex 690 64 0
+vertex 656 55 0
+vertex 662 65 0
+triangle
+color 97 0 0
+vertex 726 223 0
+color 89 0 0
+vertex 717 261 0
+color 112 0 0
+vertex 715 237 0
+color 0 0 0
+polyline 4 1
+vertex 726 223 0
+vertex 717 261 0
+vertex 715 237 0
+vertex 726 223 0
+triangle
+color 112 0 0
+vertex 715 237 0
+color 104 0 0
+vertex 719 169 0
+color 97 0 0
+vertex 726 223 0
+color 0 0 0
+polyline 4 1
+vertex 715 237 0
+vertex 719 169 0
+vertex 726 223 0
+vertex 715 237 0
+triangle
+color 86 0 0
+vertex 530 70 0
+color 101 0 0
+vertex 541 56 0
+color 113 0 0
+vertex 514 60 0
+color 0 0 0
+polyline 4 1
+vertex 530 70 0
+vertex 541 56 0
+vertex 514 60 0
+vertex 530 70 0
+triangle
+color 86 0 0
+vertex 530 70 0
+color 113 0 0
+vertex 514 60 0
+color 104 0 0
+vertex 501 79 0
+color 0 0 0
+polyline 4 1
+vertex 530 70 0
+vertex 514 60 0
+vertex 501 79 0
+vertex 530 70 0
+triangle
+color 113 0 0
+vertex 628 517 0
+color 87 0 0
+vertex 607 532 0
+color 106 0 0
+vertex 582 531 0
+color 0 0 0
+polyline 4 1
+vertex 628 517 0
+vertex 607 532 0
+vertex 582 531 0
+vertex 628 517 0
+triangle
+color 94 0 0
+vertex 665 522 0
+color 113 0 0
+vertex 628 517 0
+color 104 0 0
+vertex 673 499 0
+color 0 0 0
+polyline 4 1
+vertex 665 522 0
+vertex 628 517 0
+vertex 673 499 0
+vertex 665 522 0
+triangle
+color 87 0 0
+vertex 607 532 0
+color 113 0 0
+vertex 628 517 0
+color 94 0 0
+vertex 665 522 0
+color 0 0 0
+polyline 4 1
+vertex 607 532 0
+vertex 628 517 0
+vertex 665 522 0
+vertex 607 532 0
+triangle
+color 111 0 0
+vertex 480 201 0
+color 115 0 0
+vertex 489 260 0
+color 96 0 0
+vertex 475 238 0
+color 0 0 0
+polyline 4 1
+vertex 480 201 0
+vertex 489 260 0
+vertex 475 238 0
+vertex 480 201 0
+triangle
+color 115 0 0
+vertex 489 260 0
+color 94 0 0
+vertex 500 311 0
+color 96 0 0
+vertex 475 238 0
+color 0 0 0
+polyline 4 1
+vertex 489 260 0
+vertex 500 311 0
+vertex 475 238 0
+vertex 489 260 0
+triangle
+color 89 0 0
+vertex 717 261 0
+color 96 0 0
+vertex 690 324 0
+color 117 0 0
+vertex 704 286 0
+color 0 0 0
+polyline 4 1
+vertex 717 261 0
+vertex 690 324 0
+vertex 704 286 0
+vertex 717 261 0
+triangle
+color 112 0 0
+vertex 715 237 0
+color 89 0 0
+vertex 717 261 0
+color 117 0 0
+vertex 704 286 0
+color 0 0 0
+polyline 4 1
+vertex 715 237 0
+vertex 717 261 0
+vertex 704 286 0
+vertex 715 237 0
+triangle
+color 104 0 0
+vertex 660 368 0
+color 102 0 0
+vertex 675 419 0
+color 117 0 0
+vertex 639 382 0
+color 0 0 0
+polyline 4 1
+vertex 660 368 0
+vertex 675 419 0
+vertex 639 382 0
+vertex 660 368 0
+triangle
+color 97 0 0
+vertex 545 539 0
+color 101 0 0
+vertex 521 523 0
+color 118 0 0
+vertex 548 503 0
+color 0 0 0
+polyline 4 1
+vertex 545 539 0
+vertex 521 523 0
+vertex 548 503 0
+vertex 545 539 0
+triangle
+color 108 0 0
+vertex 515 462 0
+color 118 0 0
+vertex 548 503 0
+color 99 0 0
+vertex 504 502 0
+color 0 0 0
+polyline 4 1
+vertex 515 462 0
+vertex 548 503 0
+vertex 504 502 0
+vertex 515 462 0
+triangle
+color 97 0 0
+vertex 545 539 0
+color 118 0 0
+vertex 548 503 0
+color 106 0 0
+vertex 582 531 0
+color 0 0 0
+polyline 4 1
+vertex 545 539 0
+vertex 548 503 0
+vertex 582 531 0
+vertex 545 539 0
+triangle
+color 118 0 0
+vertex 548 503 0
+color 101 0 0
+vertex 521 523 0
+color 99 0 0
+vertex 504 502 0
+color 0 0 0
+polyline 4 1
+vertex 548 503 0
+vertex 521 523 0
+vertex 504 502 0
+vertex 548 503 0
+triangle
+color 108 0 0
+vertex 494 109 0
+color 118 0 0
+vertex 496 138 0
+color 98 0 0
+vertex 478 164 0
+color 0 0 0
+polyline 4 1
+vertex 494 109 0
+vertex 496 138 0
+vertex 478 164 0
+vertex 494 109 0
+triangle
+color 118 0 0
+vertex 496 138 0
+color 111 0 0
+vertex 480 201 0
+color 98 0 0
+vertex 478 164 0
+color 0 0 0
+polyline 4 1
+vertex 496 138 0
+vertex 480 201 0
+vertex 478 164 0
+vertex 496 138 0
+triangle
+color 120 0 0
+vertex 708 175 0
+color 104 0 0
+vertex 719 169 0
+color 112 0 0
+vertex 715 237 0
+color 0 0 0
+polyline 4 1
+vertex 708 175 0
+vertex 719 169 0
+vertex 715 237 0
+vertex 708 175 0
+triangle
+color 104 0 0
+vertex 673 499 0
+color 113 0 0
+vertex 628 517 0
+color 120 0 0
+vertex 654 481 0
+color 0 0 0
+polyline 4 1
+vertex 673 499 0
+vertex 628 517 0
+vertex 654 481 0
+vertex 673 499 0
+triangle
+color 103 0 0
+vertex 686 468 0
+color 104 0 0
+vertex 673 499 0
+color 120 0 0
+vertex 654 481 0
+color 0 0 0
+polyline 4 1
+vertex 686 468 0
+vertex 673 499 0
+vertex 654 481 0
+vertex 686 468 0
+triangle
+color 108 0 0
+vertex 515 462 0
+color 101 0 0
+vertex 515 417 0
+color 121 0 0
+vertex 537 412 0
+color 0 0 0
+polyline 4 1
+vertex 515 462 0
+vertex 515 417 0
+vertex 537 412 0
+vertex 515 462 0
+triangle
+color 118 0 0
+vertex 544 355 0
+color 121 0 0
+vertex 537 412 0
+color 102 0 0
+vertex 529 368 0
+color 0 0 0
+polyline 4 1
+vertex 544 355 0
+vertex 537 412 0
+vertex 529 368 0
+vertex 544 355 0
+triangle
+color 101 0 0
+vertex 515 417 0
+color 102 0 0
+vertex 529 368 0
+color 121 0 0
+vertex 537 412 0
+color 0 0 0
+polyline 4 1
+vertex 515 417 0
+vertex 529 368 0
+vertex 537 412 0
+vertex 515 417 0
+triangle
+color 121 0 0
+vertex 701 129 0
+color 110 0 0
+vertex 706 111 0
+color 104 0 0
+vertex 719 169 0
+color 0 0 0
+polyline 4 1
+vertex 701 129 0
+vertex 706 111 0
+vertex 719 169 0
+vertex 701 129 0
+triangle
+color 121 0 0
+vertex 701 129 0
+color 104 0 0
+vertex 719 169 0
+color 120 0 0
+vertex 708 175 0
+color 0 0 0
+polyline 4 1
+vertex 701 129 0
+vertex 719 169 0
+vertex 708 175 0
+vertex 701 129 0
+triangle
+color 121 0 0
+vertex 657 430 0
+color 103 0 0
+vertex 686 468 0
+color 120 0 0
+vertex 654 481 0
+color 0 0 0
+polyline 4 1
+vertex 657 430 0
+vertex 686 468 0
+vertex 654 481 0
+vertex 657 430 0
+triangle
+color 103 0 0
+vertex 686 468 0
+color 121 0 0
+vertex 657 430 0
+color 102 0 0
+vertex 675 419 0
+color 0 0 0
+polyline 4 1
+vertex 686 468 0
+vertex 657 430 0
+vertex 675 419 0
+vertex 686 468 0
+triangle
+color 121 0 0
+vertex 657 430 0
+color 117 0 0
+vertex 639 382 0
+color 102 0 0
+vertex 675 419 0
+color 0 0 0
+polyline 4 1
+vertex 657 430 0
+vertex 639 382 0
+vertex 675 419 0
+vertex 657 430 0
+triangle
+color 122 0 0
+vertex 652 58 0
+color 109 0 0
+vertex 607 57 0
+color 104 0 0
+vertex 656 55 0
+color 0 0 0
+polyline 4 1
+vertex 652 58 0
+vertex 607 57 0
+vertex 656 55 0
+vertex 652 58 0
+triangle
+color 122 0 0
+vertex 639 351 0
+color 104 0 0
+vertex 660 368 0
+color 117 0 0
+vertex 639 382 0
+color 0 0 0
+polyline 4 1
+vertex 639 351 0
+vertex 660 368 0
+vertex 639 382 0
+vertex 639 351 0
+triangle
+color 118 0 0
+vertex 544 355 0
+color 123 0 0
+vertex 564 369 0
+color 121 0 0
+vertex 537 412 0
+color 0 0 0
+polyline 4 1
+vertex 544 355 0
+vertex 564 369 0
+vertex 537 412 0
+vertex 544 355 0
+triangle
+color 109 0 0
+vertex 607 57 0
+color 123 0 0
+vertex 573 73 0
+color 109 0 0
+vertex 559 57 0
+color 0 0 0
+polyline 4 1
+vertex 607 57 0
+vertex 573 73 0
+vertex 559 57 0
+vertex 607 57 0
+triangle
+color 106 0 0
+vertex 582 531 0
+color 123 0 0
+vertex 592 512 0
+color 113 0 0
+vertex 628 517 0
+color 0 0 0
+polyline 4 1
+vertex 582 531 0
+vertex 592 512 0
+vertex 628 517 0
+vertex 582 531 0
+triangle
+color 118 0 0
+vertex 548 503 0
+color 123 0 0
+vertex 592 512 0
+color 106 0 0
+vertex 582 531 0
+color 0 0 0
+polyline 4 1
+vertex 548 503 0
+vertex 592 512 0
+vertex 582 531 0
+vertex 548 503 0
+triangle
+color 117 0 0
+vertex 639 382 0
+color 126 0 0
+vertex 601 363 0
+color 122 0 0
+vertex 639 351 0
+color 0 0 0
+polyline 4 1
+vertex 639 382 0
+vertex 601 363 0
+vertex 639 351 0
+vertex 639 382 0
+triangle
+color 126 0 0
+vertex 630 77 0
+color 123 0 0
+vertex 573 73 0
+color 109 0 0
+vertex 607 57 0
+color 0 0 0
+polyline 4 1
+vertex 630 77 0
+vertex 573 73 0
+vertex 607 57 0
+vertex 630 77 0
+triangle
+color 109 0 0
+vertex 607 57 0
+color 122 0 0
+vertex 652 58 0
+color 126 0 0
+vertex 630 77 0
+color 0 0 0
+polyline 4 1
+vertex 607 57 0
+vertex 652 58 0
+vertex 630 77 0
+vertex 607 57 0
+triangle
+color 127 0 0
+vertex 487 87 0
+color 108 0 0
+vertex 494 109 0
+color 104 0 0
+vertex 501 79 0
+color 0 0 0
+polyline 4 1
+vertex 487 87 0
+vertex 494 109 0
+vertex 501 79 0
+vertex 487 87 0
+triangle
+color 118 0 0
+vertex 496 138 0
+color 127 0 0
+vertex 500 197 0
+color 111 0 0
+vertex 480 201 0
+color 0 0 0
+polyline 4 1
+vertex 496 138 0
+vertex 500 197 0
+vertex 480 201 0
+vertex 496 138 0
+triangle
+color 111 0 0
+vertex 480 201 0
+color 127 0 0
+vertex 500 197 0
+color 115 0 0
+vertex 489 260 0
+color 0 0 0
+polyline 4 1
+vertex 480 201 0
+vertex 500 197 0
+vertex 489 260 0
+vertex 480 201 0
+triangle
+color 128 0 0
+vertex 517 312 0
+color 118 0 0
+vertex 544 355 0
+color 102 0 0
+vertex 529 368 0
+color 0 0 0
+polyline 4 1
+vertex 517 312 0
+vertex 544 355 0
+vertex 529 368 0
+vertex 517 312 0
+triangle
+color 94 0 0
+vertex 500 311 0
+color 128 0 0
+vertex 517 312 0
+color 102 0 0
+vertex 529 368 0
+color 0 0 0
+polyline 4 1
+vertex 500 311 0
+vertex 517 312 0
+vertex 529 368 0
+vertex 500 311 0
+triangle
+color 121 0 0
+vertex 537 412 0
+color 129 0 0
+vertex 547 462 0
+color 108 0 0
+vertex 515 462 0
+color 0 0 0
+polyline 4 1
+vertex 537 412 0
+vertex 547 462 0
+vertex 515 462 0
+vertex 537 412 0
+triangle
+color 129 0 0
+vertex 547 462 0
+color 118 0 0
+vertex 548 503 0
+color 108 0 0
+vertex 515 462 0
+color 0 0 0
+polyline 4 1
+vertex 547 462 0
+vertex 548 503 0
+vertex 515 462 0
+vertex 547 462 0
+triangle
+color 129 0 0
+vertex 688 139 0
+color 121 0 0
+vertex 701 129 0
+color 120 0 0
+vertex 708 175 0
+color 0 0 0
+polyline 4 1
+vertex 688 139 0
+vertex 701 129 0
+vertex 708 175 0
+vertex 688 139 0
+triangle
+color 123 0 0
+vertex 564 369 0
+color 126 0 0
+vertex 601 363 0
+color 130 0 0
+vertex 571 402 0
+color 0 0 0
+polyline 4 1
+vertex 564 369 0
+vertex 601 363 0
+vertex 571 402 0
+vertex 564 369 0
+triangle
+color 123 0 0
+vertex 564 369 0
+color 130 0 0
+vertex 571 402 0
+color 121 0 0
+vertex 537 412 0
+color 0 0 0
+polyline 4 1
+vertex 564 369 0
+vertex 571 402 0
+vertex 537 412 0
+vertex 564 369 0
+triangle
+color 112 0 0
+vertex 715 237 0
+color 117 0 0
+vertex 704 286 0
+color 131 0 0
+vertex 697 248 0
+color 0 0 0
+polyline 4 1
+vertex 715 237 0
+vertex 704 286 0
+vertex 697 248 0
+vertex 715 237 0
+triangle
+color 96 0 0
+vertex 690 324 0
+color 104 0 0
+vertex 660 368 0
+color 131 0 0
+vertex 679 317 0
+color 0 0 0
+polyline 4 1
+vertex 690 324 0
+vertex 660 368 0
+vertex 679 317 0
+vertex 690 324 0
+triangle
+color 104 0 0
+vertex 660 368 0
+color 122 0 0
+vertex 639 351 0
+color 131 0 0
+vertex 679 317 0
+color 0 0 0
+polyline 4 1
+vertex 660 368 0
+vertex 639 351 0
+vertex 679 317 0
+vertex 660 368 0
+triangle
+color 96 0 0
+vertex 690 324 0
+color 131 0 0
+vertex 679 317 0
+color 117 0 0
+vertex 704 286 0
+color 0 0 0
+polyline 4 1
+vertex 690 324 0
+vertex 679 317 0
+vertex 704 286 0
+vertex 690 324 0
+triangle
+color 132 0 0
+vertex 614 485 0
+color 120 0 0
+vertex 654 481 0
+color 113 0 0
+vertex 628 517 0
+color 0 0 0
+polyline 4 1
+vertex 614 485 0
+vertex 654 481 0
+vertex 628 517 0
+vertex 614 485 0
+triangle
+color 113 0 0
+vertex 628 517 0
+color 123 0 0
+vertex 592 512 0
+color 132 0 0
+vertex 614 485 0
+color 0 0 0
+polyline 4 1
+vertex 628 517 0
+vertex 592 512 0
+vertex 614 485 0
+vertex 628 517 0
+triangle
+color 131 0 0
+vertex 697 248 0
+color 132 0 0
+vertex 691 196 0
+color 112 0 0
+vertex 715 237 0
+color 0 0 0
+polyline 4 1
+vertex 697 248 0
+vertex 691 196 0
+vertex 715 237 0
+vertex 697 248 0
+triangle
+color 129 0 0
+vertex 688 139 0
+color 120 0 0
+vertex 708 175 0
+color 132 0 0
+vertex 691 196 0
+color 0 0 0
+polyline 4 1
+vertex 688 139 0
+vertex 708 175 0
+vertex 691 196 0
+vertex 688 139 0
+triangle
+color 120 0 0
+vertex 708 175 0
+color 112 0 0
+vertex 715 237 0
+color 132 0 0
+vertex 691 196 0
+color 0 0 0
+polyline 4 1
+vertex 708 175 0
+vertex 715 237 0
+vertex 691 196 0
+vertex 708 175 0
+triangle
+color 130 0 0
+vertex 571 402 0
+color 126 0 0
+vertex 601 363 0
+color 132 0 0
+vertex 612 410 0
+color 0 0 0
+polyline 4 1
+vertex 571 402 0
+vertex 601 363 0
+vertex 612 410 0
+vertex 571 402 0
+triangle
+color 117 0 0
+vertex 639 382 0
+color 121 0 0
+vertex 657 430 0
+color 132 0 0
+vertex 612 410 0
+color 0 0 0
+polyline 4 1
+vertex 639 382 0
+vertex 657 430 0
+vertex 612 410 0
+vertex 639 382 0
+triangle
+color 126 0 0
+vertex 601 363 0
+color 117 0 0
+vertex 639 382 0
+color 132 0 0
+vertex 612 410 0
+color 0 0 0
+polyline 4 1
+vertex 601 363 0
+vertex 639 382 0
+vertex 612 410 0
+vertex 601 363 0
+triangle
+color 123 0 0
+vertex 592 512 0
+color 132 0 0
+vertex 576 486 0
+color 132 0 0
+vertex 614 485 0
+color 0 0 0
+polyline 4 1
+vertex 592 512 0
+vertex 576 486 0
+vertex 614 485 0
+vertex 592 512 0
+triangle
+color 132 0 0
+vertex 576 486 0
+color 118 0 0
+vertex 548 503 0
+color 129 0 0
+vertex 547 462 0
+color 0 0 0
+polyline 4 1
+vertex 576 486 0
+vertex 548 503 0
+vertex 547 462 0
+vertex 576 486 0
+triangle
+color 123 0 0
+vertex 592 512 0
+color 118 0 0
+vertex 548 503 0
+color 132 0 0
+vertex 576 486 0
+color 0 0 0
+polyline 4 1
+vertex 592 512 0
+vertex 548 503 0
+vertex 576 486 0
+vertex 592 512 0
+triangle
+color 120 0 0
+vertex 654 481 0
+color 132 0 0
+vertex 614 485 0
+color 133 0 0
+vertex 630 451 0
+color 0 0 0
+polyline 4 1
+vertex 654 481 0
+vertex 614 485 0
+vertex 630 451 0
+vertex 654 481 0
+triangle
+color 121 0 0
+vertex 657 430 0
+color 133 0 0
+vertex 630 451 0
+color 132 0 0
+vertex 612 410 0
+color 0 0 0
+polyline 4 1
+vertex 657 430 0
+vertex 630 451 0
+vertex 612 410 0
+vertex 657 430 0
+triangle
+color 120 0 0
+vertex 654 481 0
+color 133 0 0
+vertex 630 451 0
+color 121 0 0
+vertex 657 430 0
+color 0 0 0
+polyline 4 1
+vertex 654 481 0
+vertex 630 451 0
+vertex 657 430 0
+vertex 654 481 0
+triangle
+color 134 0 0
+vertex 503 279 0
+color 94 0 0
+vertex 500 311 0
+color 115 0 0
+vertex 489 260 0
+color 0 0 0
+polyline 4 1
+vertex 503 279 0
+vertex 500 311 0
+vertex 489 260 0
+vertex 503 279 0
+triangle
+color 94 0 0
+vertex 500 311 0
+color 134 0 0
+vertex 503 279 0
+color 128 0 0
+vertex 517 312 0
+color 0 0 0
+polyline 4 1
+vertex 500 311 0
+vertex 503 279 0
+vertex 517 312 0
+vertex 500 311 0
+triangle
+color 134 0 0
+vertex 558 96 0
+color 123 0 0
+vertex 573 73 0
+color 134 0 0
+vertex 592 102 0
+color 0 0 0
+polyline 4 1
+vertex 558 96 0
+vertex 573 73 0
+vertex 592 102 0
+vertex 558 96 0
+triangle
+color 123 0 0
+vertex 573 73 0
+color 126 0 0
+vertex 630 77 0
+color 134 0 0
+vertex 592 102 0
+color 0 0 0
+polyline 4 1
+vertex 573 73 0
+vertex 630 77 0
+vertex 592 102 0
+vertex 573 73 0
+triangle
+color 135 0 0
+vertex 631 107 0
+color 134 0 0
+vertex 592 102 0
+color 126 0 0
+vertex 630 77 0
+color 0 0 0
+polyline 4 1
+vertex 631 107 0
+vertex 592 102 0
+vertex 630 77 0
+vertex 631 107 0
+triangle
+color 133 0 0
+vertex 630 451 0
+color 136 0 0
+vertex 582 446 0
+color 132 0 0
+vertex 612 410 0
+color 0 0 0
+polyline 4 1
+vertex 630 451 0
+vertex 582 446 0
+vertex 612 410 0
+vertex 630 451 0
+triangle
+color 129 0 0
+vertex 547 462 0
+color 121 0 0
+vertex 537 412 0
+color 136 0 0
+vertex 582 446 0
+color 0 0 0
+polyline 4 1
+vertex 547 462 0
+vertex 537 412 0
+vertex 582 446 0
+vertex 547 462 0
+triangle
+color 136 0 0
+vertex 582 446 0
+color 132 0 0
+vertex 576 486 0
+color 129 0 0
+vertex 547 462 0
+color 0 0 0
+polyline 4 1
+vertex 582 446 0
+vertex 576 486 0
+vertex 547 462 0
+vertex 582 446 0
+triangle
+color 121 0 0
+vertex 537 412 0
+color 130 0 0
+vertex 571 402 0
+color 136 0 0
+vertex 582 446 0
+color 0 0 0
+polyline 4 1
+vertex 537 412 0
+vertex 571 402 0
+vertex 582 446 0
+vertex 537 412 0
+triangle
+color 133 0 0
+vertex 630 451 0
+color 132 0 0
+vertex 614 485 0
+color 136 0 0
+vertex 582 446 0
+color 0 0 0
+polyline 4 1
+vertex 630 451 0
+vertex 614 485 0
+vertex 582 446 0
+vertex 630 451 0
+triangle
+color 132 0 0
+vertex 614 485 0
+color 132 0 0
+vertex 576 486 0
+color 136 0 0
+vertex 582 446 0
+color 0 0 0
+polyline 4 1
+vertex 614 485 0
+vertex 576 486 0
+vertex 582 446 0
+vertex 614 485 0
+triangle
+color 136 0 0
+vertex 582 446 0
+color 130 0 0
+vertex 571 402 0
+color 132 0 0
+vertex 612 410 0
+color 0 0 0
+polyline 4 1
+vertex 582 446 0
+vertex 571 402 0
+vertex 612 410 0
+vertex 582 446 0
+triangle
+color 118 0 0
+vertex 544 355 0
+color 136 0 0
+vertex 570 318 0
+color 123 0 0
+vertex 564 369 0
+color 0 0 0
+polyline 4 1
+vertex 544 355 0
+vertex 570 318 0
+vertex 564 369 0
+vertex 544 355 0
+triangle
+color 126 0 0
+vertex 601 363 0
+color 123 0 0
+vertex 564 369 0
+color 136 0 0
+vertex 570 318 0
+color 0 0 0
+polyline 4 1
+vertex 601 363 0
+vertex 564 369 0
+vertex 570 318 0
+vertex 601 363 0
+triangle
+color 118 0 0
+vertex 496 138 0
+color 137 0 0
+vertex 520 132 0
+color 127 0 0
+vertex 500 197 0
+color 0 0 0
+polyline 4 1
+vertex 496 138 0
+vertex 520 132 0
+vertex 500 197 0
+vertex 496 138 0
+triangle
+color 134 0 0
+vertex 592 102 0
+color 138 0 0
+vertex 553 127 0
+color 134 0 0
+vertex 558 96 0
+color 0 0 0
+polyline 4 1
+vertex 592 102 0
+vertex 553 127 0
+vertex 558 96 0
+vertex 592 102 0
+triangle
+color 131 0 0
+vertex 679 317 0
+color 122 0 0
+vertex 639 351 0
+color 138 0 0
+vertex 657 321 0
+color 0 0 0
+polyline 4 1
+vertex 679 317 0
+vertex 639 351 0
+vertex 657 321 0
+vertex 679 317 0
+triangle
+color 129 0 0
+vertex 688 139 0
+color 138 0 0
+vertex 688 122 0
+color 121 0 0
+vertex 701 129 0
+color 0 0 0
+polyline 4 1
+vertex 688 139 0
+vertex 688 122 0
+vertex 701 129 0
+vertex 688 139 0
+triangle
+color 138 0 0
+vertex 660 131 0
+color 138 0 0
+vertex 688 122 0
+color 129 0 0
+vertex 688 139 0
+color 0 0 0
+polyline 4 1
+vertex 660 131 0
+vertex 688 122 0
+vertex 688 139 0
+vertex 660 131 0
+triangle
+color 129 0 0
+vertex 688 139 0
+color 132 0 0
+vertex 691 196 0
+color 138 0 0
+vertex 660 131 0
+color 0 0 0
+polyline 4 1
+vertex 688 139 0
+vertex 691 196 0
+vertex 660 131 0
+vertex 688 139 0
+triangle
+color 134 0 0
+vertex 503 279 0
+color 115 0 0
+vertex 489 260 0
+color 138 0 0
+vertex 508 245 0
+color 0 0 0
+polyline 4 1
+vertex 503 279 0
+vertex 489 260 0
+vertex 508 245 0
+vertex 503 279 0
+triangle
+color 115 0 0
+vertex 489 260 0
+color 127 0 0
+vertex 500 197 0
+color 138 0 0
+vertex 508 245 0
+color 0 0 0
+polyline 4 1
+vertex 489 260 0
+vertex 500 197 0
+vertex 508 245 0
+vertex 489 260 0
+triangle
+color 108 0 0
+vertex 494 109 0
+color 127 0 0
+vertex 487 87 0
+color 139 0 0
+vertex 492 114 0
+color 0 0 0
+polyline 4 1
+vertex 494 109 0
+vertex 487 87 0
+vertex 492 114 0
+vertex 494 109 0
+triangle
+color 118 0 0
+vertex 496 138 0
+color 139 0 0
+vertex 492 114 0
+color 137 0 0
+vertex 520 132 0
+color 0 0 0
+polyline 4 1
+vertex 496 138 0
+vertex 492 114 0
+vertex 520 132 0
+vertex 496 138 0
+triangle
+color 139 0 0
+vertex 492 114 0
+color 118 0 0
+vertex 496 138 0
+color 108 0 0
+vertex 494 109 0
+color 0 0 0
+polyline 4 1
+vertex 492 114 0
+vertex 496 138 0
+vertex 494 109 0
+vertex 492 114 0
+triangle
+color 112 0 0
+vertex 690 64 0
+color 93 0 0
+vertex 694 91 0
+color 139 0 0
+vertex 717 84 0
+color 0 0 0
+polyline 4 1
+vertex 690 64 0
+vertex 694 91 0
+vertex 717 84 0
+vertex 690 64 0
+triangle
+color 93 0 0
+vertex 694 91 0
+color 110 0 0
+vertex 706 111 0
+color 139 0 0
+vertex 717 84 0
+color 0 0 0
+polyline 4 1
+vertex 694 91 0
+vertex 706 111 0
+vertex 717 84 0
+vertex 694 91 0
+triangle
+color 123 0 0
+vertex 573 73 0
+color 139 0 0
+vertex 547 76 0
+color 109 0 0
+vertex 559 57 0
+color 0 0 0
+polyline 4 1
+vertex 573 73 0
+vertex 547 76 0
+vertex 559 57 0
+vertex 573 73 0
+triangle
+color 123 0 0
+vertex 573 73 0
+color 134 0 0
+vertex 558 96 0
+color 139 0 0
+vertex 547 76 0
+color 0 0 0
+polyline 4 1
+vertex 573 73 0
+vertex 558 96 0
+vertex 547 76 0
+vertex 573 73 0
+triangle
+color 139 0 0
+vertex 717 84 0
+color 110 0 0
+vertex 706 111 0
+color 141 0 0
+vertex 707 112 0
+color 0 0 0
+polyline 4 1
+vertex 717 84 0
+vertex 706 111 0
+vertex 707 112 0
+vertex 717 84 0
+triangle
+color 110 0 0
+vertex 706 111 0
+color 121 0 0
+vertex 701 129 0
+color 141 0 0
+vertex 707 112 0
+color 0 0 0
+polyline 4 1
+vertex 706 111 0
+vertex 701 129 0
+vertex 707 112 0
+vertex 706 111 0
+triangle
+color 141 0 0
+vertex 707 112 0
+color 121 0 0
+vertex 701 129 0
+color 138 0 0
+vertex 688 122 0
+color 0 0 0
+polyline 4 1
+vertex 707 112 0
+vertex 701 129 0
+vertex 688 122 0
+vertex 707 112 0
+triangle
+color 137 0 0
+vertex 520 132 0
+color 141 0 0
+vertex 544 175 0
+color 127 0 0
+vertex 500 197 0
+color 0 0 0
+polyline 4 1
+vertex 520 132 0
+vertex 544 175 0
+vertex 500 197 0
+vertex 520 132 0
+triangle
+color 141 0 0
+vertex 544 175 0
+color 137 0 0
+vertex 520 132 0
+color 138 0 0
+vertex 553 127 0
+color 0 0 0
+polyline 4 1
+vertex 544 175 0
+vertex 520 132 0
+vertex 553 127 0
+vertex 544 175 0
+triangle
+color 141 0 0
+vertex 544 175 0
+color 141 0 0
+vertex 527 222 0
+color 127 0 0
+vertex 500 197 0
+color 0 0 0
+polyline 4 1
+vertex 544 175 0
+vertex 527 222 0
+vertex 500 197 0
+vertex 544 175 0
+triangle
+color 127 0 0
+vertex 500 197 0
+color 141 0 0
+vertex 527 222 0
+color 138 0 0
+vertex 508 245 0
+color 0 0 0
+polyline 4 1
+vertex 500 197 0
+vertex 527 222 0
+vertex 508 245 0
+vertex 500 197 0
+triangle
+color 118 0 0
+vertex 544 355 0
+color 142 0 0
+vertex 540 309 0
+color 136 0 0
+vertex 570 318 0
+color 0 0 0
+polyline 4 1
+vertex 544 355 0
+vertex 540 309 0
+vertex 570 318 0
+vertex 544 355 0
+triangle
+color 142 0 0
+vertex 540 309 0
+color 118 0 0
+vertex 544 355 0
+color 128 0 0
+vertex 517 312 0
+color 0 0 0
+polyline 4 1
+vertex 540 309 0
+vertex 544 355 0
+vertex 517 312 0
+vertex 540 309 0
+triangle
+color 142 0 0
+vertex 654 70 0
+color 126 0 0
+vertex 630 77 0
+color 122 0 0
+vertex 652 58 0
+color 0 0 0
+polyline 4 1
+vertex 654 70 0
+vertex 630 77 0
+vertex 652 58 0
+vertex 654 70 0
+triangle
+color 143 0 0
+vertex 483 73 0
+color 104 0 0
+vertex 501 79 0
+color 113 0 0
+vertex 514 60 0
+color 0 0 0
+polyline 4 1
+vertex 483 73 0
+vertex 501 79 0
+vertex 514 60 0
+vertex 483 73 0
+triangle
+color 127 0 0
+vertex 487 87 0
+color 104 0 0
+vertex 501 79 0
+color 143 0 0
+vertex 483 73 0
+color 0 0 0
+polyline 4 1
+vertex 487 87 0
+vertex 501 79 0
+vertex 483 73 0
+vertex 487 87 0
+triangle
+color 134 0 0
+vertex 558 96 0
+color 143 0 0
+vertex 541 108 0
+color 139 0 0
+vertex 547 76 0
+color 0 0 0
+polyline 4 1
+vertex 558 96 0
+vertex 541 108 0
+vertex 547 76 0
+vertex 558 96 0
+triangle
+color 138 0 0
+vertex 553 127 0
+color 143 0 0
+vertex 541 108 0
+color 134 0 0
+vertex 558 96 0
+color 0 0 0
+polyline 4 1
+vertex 553 127 0
+vertex 541 108 0
+vertex 558 96 0
+vertex 553 127 0
+triangle
+color 143 0 0
+vertex 541 108 0
+color 138 0 0
+vertex 553 127 0
+color 137 0 0
+vertex 520 132 0
+color 0 0 0
+polyline 4 1
+vertex 541 108 0
+vertex 553 127 0
+vertex 520 132 0
+vertex 541 108 0
+triangle
+color 138 0 0
+vertex 660 131 0
+color 132 0 0
+vertex 691 196 0
+color 143 0 0
+vertex 653 189 0
+color 0 0 0
+polyline 4 1
+vertex 660 131 0
+vertex 691 196 0
+vertex 653 189 0
+vertex 660 131 0
+triangle
+color 138 0 0
+vertex 657 321 0
+color 122 0 0
+vertex 639 351 0
+color 144 0 0
+vertex 631 310 0
+color 0 0 0
+polyline 4 1
+vertex 657 321 0
+vertex 639 351 0
+vertex 631 310 0
+vertex 657 321 0
+triangle
+color 144 0 0
+vertex 631 310 0
+color 122 0 0
+vertex 639 351 0
+color 126 0 0
+vertex 601 363 0
+color 0 0 0
+polyline 4 1
+vertex 631 310 0
+vertex 639 351 0
+vertex 601 363 0
+vertex 631 310 0
+triangle
+color 144 0 0
+vertex 631 310 0
+color 126 0 0
+vertex 601 363 0
+color 136 0 0
+vertex 570 318 0
+color 0 0 0
+polyline 4 1
+vertex 631 310 0
+vertex 601 363 0
+vertex 570 318 0
+vertex 631 310 0
+triangle
+color 138 0 0
+vertex 660 131 0
+color 143 0 0
+vertex 653 189 0
+color 144 0 0
+vertex 604 163 0
+color 0 0 0
+polyline 4 1
+vertex 660 131 0
+vertex 653 189 0
+vertex 604 163 0
+vertex 660 131 0
+triangle
+color 138 0 0
+vertex 553 127 0
+color 134 0 0
+vertex 592 102 0
+color 144 0 0
+vertex 604 163 0
+color 0 0 0
+polyline 4 1
+vertex 553 127 0
+vertex 592 102 0
+vertex 604 163 0
+vertex 553 127 0
+triangle
+color 144 0 0
+vertex 604 163 0
+color 134 0 0
+vertex 592 102 0
+color 135 0 0
+vertex 631 107 0
+color 0 0 0
+polyline 4 1
+vertex 604 163 0
+vertex 592 102 0
+vertex 631 107 0
+vertex 604 163 0
+triangle
+color 138 0 0
+vertex 660 131 0
+color 144 0 0
+vertex 604 163 0
+color 135 0 0
+vertex 631 107 0
+color 0 0 0
+polyline 4 1
+vertex 660 131 0
+vertex 604 163 0
+vertex 631 107 0
+vertex 660 131 0
+triangle
+color 144 0 0
+vertex 604 163 0
+color 141 0 0
+vertex 544 175 0
+color 138 0 0
+vertex 553 127 0
+color 0 0 0
+polyline 4 1
+vertex 604 163 0
+vertex 544 175 0
+vertex 553 127 0
+vertex 604 163 0
+triangle
+color 135 0 0
+vertex 631 107 0
+color 126 0 0
+vertex 630 77 0
+color 145 0 0
+vertex 652 98 0
+color 0 0 0
+polyline 4 1
+vertex 631 107 0
+vertex 630 77 0
+vertex 652 98 0
+vertex 631 107 0
+triangle
+color 145 0 0
+vertex 652 98 0
+color 126 0 0
+vertex 630 77 0
+color 142 0 0
+vertex 654 70 0
+color 0 0 0
+polyline 4 1
+vertex 652 98 0
+vertex 630 77 0
+vertex 654 70 0
+vertex 652 98 0
+triangle
+color 135 0 0
+vertex 631 107 0
+color 145 0 0
+vertex 652 98 0
+color 138 0 0
+vertex 660 131 0
+color 0 0 0
+polyline 4 1
+vertex 631 107 0
+vertex 652 98 0
+vertex 660 131 0
+vertex 631 107 0
+triangle
+color 131 0 0
+vertex 697 248 0
+color 117 0 0
+vertex 704 286 0
+color 146 0 0
+vertex 696 259 0
+color 0 0 0
+polyline 4 1
+vertex 697 248 0
+vertex 704 286 0
+vertex 696 259 0
+vertex 697 248 0
+triangle
+color 109 0 0
+vertex 559 57 0
+color 139 0 0
+vertex 547 76 0
+color 147 0 0
+vertex 526 57 0
+color 0 0 0
+polyline 4 1
+vertex 559 57 0
+vertex 547 76 0
+vertex 526 57 0
+vertex 559 57 0
+triangle
+color 109 0 0
+vertex 559 57 0
+color 147 0 0
+vertex 526 57 0
+color 101 0 0
+vertex 541 56 0
+color 0 0 0
+polyline 4 1
+vertex 559 57 0
+vertex 526 57 0
+vertex 541 56 0
+vertex 559 57 0
+triangle
+color 113 0 0
+vertex 514 60 0
+color 101 0 0
+vertex 541 56 0
+color 147 0 0
+vertex 526 57 0
+color 0 0 0
+polyline 4 1
+vertex 514 60 0
+vertex 541 56 0
+vertex 526 57 0
+vertex 514 60 0
+triangle
+color 144 0 0
+vertex 631 310 0
+color 136 0 0
+vertex 570 318 0
+color 147 0 0
+vertex 614 278 0
+color 0 0 0
+polyline 4 1
+vertex 631 310 0
+vertex 570 318 0
+vertex 614 278 0
+vertex 631 310 0
+triangle
+color 144 0 0
+vertex 604 163 0
+color 148 0 0
+vertex 567 216 0
+color 141 0 0
+vertex 544 175 0
+color 0 0 0
+polyline 4 1
+vertex 604 163 0
+vertex 567 216 0
+vertex 544 175 0
+vertex 604 163 0
+triangle
+color 141 0 0
+vertex 544 175 0
+color 148 0 0
+vertex 567 216 0
+color 141 0 0
+vertex 527 222 0
+color 0 0 0
+polyline 4 1
+vertex 544 175 0
+vertex 567 216 0
+vertex 527 222 0
+vertex 544 175 0
+triangle
+color 149 0 0
+vertex 697 285 0
+color 117 0 0
+vertex 704 286 0
+color 131 0 0
+vertex 679 317 0
+color 0 0 0
+polyline 4 1
+vertex 697 285 0
+vertex 704 286 0
+vertex 679 317 0
+vertex 697 285 0
+triangle
+color 146 0 0
+vertex 696 259 0
+color 117 0 0
+vertex 704 286 0
+color 149 0 0
+vertex 697 285 0
+color 0 0 0
+polyline 4 1
+vertex 696 259 0
+vertex 704 286 0
+vertex 697 285 0
+vertex 696 259 0
+triangle
+color 143 0 0
+vertex 653 189 0
+color 149 0 0
+vertex 625 235 0
+color 144 0 0
+vertex 604 163 0
+color 0 0 0
+polyline 4 1
+vertex 653 189 0
+vertex 625 235 0
+vertex 604 163 0
+vertex 653 189 0
+triangle
+color 149 0 0
+vertex 625 235 0
+color 148 0 0
+vertex 567 216 0
+color 144 0 0
+vertex 604 163 0
+color 0 0 0
+polyline 4 1
+vertex 625 235 0
+vertex 567 216 0
+vertex 604 163 0
+vertex 625 235 0
+triangle
+color 131 0 0
+vertex 697 248 0
+color 146 0 0
+vertex 696 259 0
+color 150 0 0
+vertex 667 233 0
+color 0 0 0
+polyline 4 1
+vertex 697 248 0
+vertex 696 259 0
+vertex 667 233 0
+vertex 697 248 0
+triangle
+color 132 0 0
+vertex 691 196 0
+color 150 0 0
+vertex 667 233 0
+color 143 0 0
+vertex 653 189 0
+color 0 0 0
+polyline 4 1
+vertex 691 196 0
+vertex 667 233 0
+vertex 653 189 0
+vertex 691 196 0
+triangle
+color 150 0 0
+vertex 667 233 0
+color 149 0 0
+vertex 625 235 0
+color 143 0 0
+vertex 653 189 0
+color 0 0 0
+polyline 4 1
+vertex 667 233 0
+vertex 625 235 0
+vertex 653 189 0
+vertex 667 233 0
+triangle
+color 132 0 0
+vertex 691 196 0
+color 131 0 0
+vertex 697 248 0
+color 150 0 0
+vertex 667 233 0
+color 0 0 0
+polyline 4 1
+vertex 691 196 0
+vertex 697 248 0
+vertex 667 233 0
+vertex 691 196 0
+triangle
+color 104 0 0
+vertex 656 55 0
+color 112 0 0
+vertex 690 64 0
+color 150 0 0
+vertex 689 52 0
+color 0 0 0
+polyline 4 1
+vertex 656 55 0
+vertex 690 64 0
+vertex 689 52 0
+vertex 656 55 0
+triangle
+color 104 0 0
+vertex 656 55 0
+color 150 0 0
+vertex 689 52 0
+color 122 0 0
+vertex 652 58 0
+color 0 0 0
+polyline 4 1
+vertex 656 55 0
+vertex 689 52 0
+vertex 652 58 0
+vertex 656 55 0
+triangle
+color 147 0 0
+vertex 614 278 0
+color 153 0 0
+vertex 580 272 0
+color 149 0 0
+vertex 625 235 0
+color 0 0 0
+polyline 4 1
+vertex 614 278 0
+vertex 580 272 0
+vertex 625 235 0
+vertex 614 278 0
+triangle
+color 147 0 0
+vertex 614 278 0
+color 136 0 0
+vertex 570 318 0
+color 153 0 0
+vertex 580 272 0
+color 0 0 0
+polyline 4 1
+vertex 614 278 0
+vertex 570 318 0
+vertex 580 272 0
+vertex 614 278 0
+triangle
+color 142 0 0
+vertex 540 309 0
+color 153 0 0
+vertex 559 293 0
+color 136 0 0
+vertex 570 318 0
+color 0 0 0
+polyline 4 1
+vertex 540 309 0
+vertex 559 293 0
+vertex 570 318 0
+vertex 540 309 0
+triangle
+color 153 0 0
+vertex 580 272 0
+color 136 0 0
+vertex 570 318 0
+color 153 0 0
+vertex 559 293 0
+color 0 0 0
+polyline 4 1
+vertex 580 272 0
+vertex 570 318 0
+vertex 559 293 0
+vertex 580 272 0
+triangle
+color 141 0 0
+vertex 527 222 0
+color 153 0 0
+vertex 540 229 0
+color 138 0 0
+vertex 508 245 0
+color 0 0 0
+polyline 4 1
+vertex 527 222 0
+vertex 540 229 0
+vertex 508 245 0
+vertex 527 222 0
+triangle
+color 153 0 0
+vertex 540 229 0
+color 141 0 0
+vertex 527 222 0
+color 148 0 0
+vertex 567 216 0
+color 0 0 0
+polyline 4 1
+vertex 540 229 0
+vertex 527 222 0
+vertex 567 216 0
+vertex 540 229 0
+triangle
+color 154 0 0
+vertex 645 239 0
+color 149 0 0
+vertex 625 235 0
+color 150 0 0
+vertex 667 233 0
+color 0 0 0
+polyline 4 1
+vertex 645 239 0
+vertex 625 235 0
+vertex 667 233 0
+vertex 645 239 0
+triangle
+color 138 0 0
+vertex 660 131 0
+color 145 0 0
+vertex 652 98 0
+color 156 0 0
+vertex 673 116 0
+color 0 0 0
+polyline 4 1
+vertex 660 131 0
+vertex 652 98 0
+vertex 673 116 0
+vertex 660 131 0
+triangle
+color 138 0 0
+vertex 688 122 0
+color 138 0 0
+vertex 660 131 0
+color 156 0 0
+vertex 673 116 0
+color 0 0 0
+polyline 4 1
+vertex 688 122 0
+vertex 660 131 0
+vertex 673 116 0
+vertex 688 122 0
+triangle
+color 156 0 0
+vertex 634 254 0
+color 149 0 0
+vertex 625 235 0
+color 154 0 0
+vertex 645 239 0
+color 0 0 0
+polyline 4 1
+vertex 634 254 0
+vertex 625 235 0
+vertex 645 239 0
+vertex 634 254 0
+triangle
+color 147 0 0
+vertex 614 278 0
+color 149 0 0
+vertex 625 235 0
+color 156 0 0
+vertex 634 254 0
+color 0 0 0
+polyline 4 1
+vertex 614 278 0
+vertex 625 235 0
+vertex 634 254 0
+vertex 614 278 0
+triangle
+color 149 0 0
+vertex 625 235 0
+color 153 0 0
+vertex 580 272 0
+color 157 0 0
+vertex 572 236 0
+color 0 0 0
+polyline 4 1
+vertex 625 235 0
+vertex 580 272 0
+vertex 572 236 0
+vertex 625 235 0
+triangle
+color 149 0 0
+vertex 625 235 0
+color 157 0 0
+vertex 572 236 0
+color 148 0 0
+vertex 567 216 0
+color 0 0 0
+polyline 4 1
+vertex 625 235 0
+vertex 572 236 0
+vertex 567 216 0
+vertex 625 235 0
+triangle
+color 157 0 0
+vertex 572 236 0
+color 153 0 0
+vertex 540 229 0
+color 148 0 0
+vertex 567 216 0
+color 0 0 0
+polyline 4 1
+vertex 572 236 0
+vertex 540 229 0
+vertex 567 216 0
+vertex 572 236 0
+triangle
+color 157 0 0
+vertex 717 63 0
+color 112 0 0
+vertex 690 64 0
+color 139 0 0
+vertex 717 84 0
+color 0 0 0
+polyline 4 1
+vertex 717 63 0
+vertex 690 64 0
+vertex 717 84 0
+vertex 717 63 0
+triangle
+color 112 0 0
+vertex 690 64 0
+color 157 0 0
+vertex 717 63 0
+color 150 0 0
+vertex 689 52 0
+color 0 0 0
+polyline 4 1
+vertex 690 64 0
+vertex 717 63 0
+vertex 689 52 0
+vertex 690 64 0
+triangle
+color 158 0 0
+vertex 632 276 0
+color 147 0 0
+vertex 614 278 0
+color 156 0 0
+vertex 634 254 0
+color 0 0 0
+polyline 4 1
+vertex 632 276 0
+vertex 614 278 0
+vertex 634 254 0
+vertex 632 276 0
+triangle
+color 147 0 0
+vertex 614 278 0
+color 158 0 0
+vertex 632 276 0
+color 144 0 0
+vertex 631 310 0
+color 0 0 0
+polyline 4 1
+vertex 614 278 0
+vertex 632 276 0
+vertex 631 310 0
+vertex 614 278 0
+triangle
+color 159 0 0
+vertex 578 255 0
+color 157 0 0
+vertex 572 236 0
+color 153 0 0
+vertex 580 272 0
+color 0 0 0
+polyline 4 1
+vertex 578 255 0
+vertex 572 236 0
+vertex 580 272 0
+vertex 578 255 0
+triangle
+color 150 0 0
+vertex 689 52 0
+color 159 0 0
+vertex 671 54 0
+color 122 0 0
+vertex 652 58 0
+color 0 0 0
+polyline 4 1
+vertex 689 52 0
+vertex 671 54 0
+vertex 652 58 0
+vertex 689 52 0
+triangle
+color 159 0 0
+vertex 671 54 0
+color 142 0 0
+vertex 654 70 0
+color 122 0 0
+vertex 652 58 0
+color 0 0 0
+polyline 4 1
+vertex 671 54 0
+vertex 654 70 0
+vertex 652 58 0
+vertex 671 54 0
+triangle
+color 137 0 0
+vertex 520 132 0
+color 139 0 0
+vertex 492 114 0
+color 162 0 0
+vertex 506 127 0
+color 0 0 0
+polyline 4 1
+vertex 520 132 0
+vertex 492 114 0
+vertex 506 127 0
+vertex 520 132 0
+triangle
+color 166 0 0
+vertex 513 240 0
+color 138 0 0
+vertex 508 245 0
+color 153 0 0
+vertex 540 229 0
+color 0 0 0
+polyline 4 1
+vertex 513 240 0
+vertex 508 245 0
+vertex 540 229 0
+vertex 513 240 0
+triangle
+color 166 0 0
+vertex 513 240 0
+color 134 0 0
+vertex 503 279 0
+color 138 0 0
+vertex 508 245 0
+color 0 0 0
+polyline 4 1
+vertex 513 240 0
+vertex 503 279 0
+vertex 508 245 0
+vertex 513 240 0
+triangle
+color 138 0 0
+vertex 688 122 0
+color 156 0 0
+vertex 673 116 0
+color 166 0 0
+vertex 696 123 0
+color 0 0 0
+polyline 4 1
+vertex 688 122 0
+vertex 673 116 0
+vertex 696 123 0
+vertex 688 122 0
+triangle
+color 138 0 0
+vertex 688 122 0
+color 166 0 0
+vertex 696 123 0
+color 141 0 0
+vertex 707 112 0
+color 0 0 0
+polyline 4 1
+vertex 688 122 0
+vertex 696 123 0
+vertex 707 112 0
+vertex 688 122 0
+triangle
+color 113 0 0
+vertex 514 60 0
+color 147 0 0
+vertex 526 57 0
+color 167 0 0
+vertex 493 59 0
+color 0 0 0
+polyline 4 1
+vertex 514 60 0
+vertex 526 57 0
+vertex 493 59 0
+vertex 514 60 0
+triangle
+color 167 0 0
+vertex 493 59 0
+color 143 0 0
+vertex 483 73 0
+color 113 0 0
+vertex 514 60 0
+color 0 0 0
+polyline 4 1
+vertex 493 59 0
+vertex 483 73 0
+vertex 514 60 0
+vertex 493 59 0
+triangle
+color 127 0 0
+vertex 487 87 0
+color 169 0 0
+vertex 463 94 0
+color 139 0 0
+vertex 492 114 0
+color 0 0 0
+polyline 4 1
+vertex 487 87 0
+vertex 463 94 0
+vertex 492 114 0
+vertex 487 87 0
+triangle
+color 143 0 0
+vertex 483 73 0
+color 169 0 0
+vertex 463 94 0
+color 127 0 0
+vertex 487 87 0
+color 0 0 0
+polyline 4 1
+vertex 483 73 0
+vertex 463 94 0
+vertex 487 87 0
+vertex 483 73 0
+triangle
+color 154 0 0
+vertex 645 239 0
+color 150 0 0
+vertex 667 233 0
+color 170 0 0
+vertex 651 233 0
+color 0 0 0
+polyline 4 1
+vertex 645 239 0
+vertex 667 233 0
+vertex 651 233 0
+vertex 645 239 0
+triangle
+color 154 0 0
+vertex 645 239 0
+color 170 0 0
+vertex 651 233 0
+color 156 0 0
+vertex 634 254 0
+color 0 0 0
+polyline 4 1
+vertex 645 239 0
+vertex 651 233 0
+vertex 634 254 0
+vertex 645 239 0
+triangle
+color 170 0 0
+vertex 703 261 0
+color 146 0 0
+vertex 696 259 0
+color 149 0 0
+vertex 697 285 0
+color 0 0 0
+polyline 4 1
+vertex 703 261 0
+vertex 696 259 0
+vertex 697 285 0
+vertex 703 261 0
+triangle
+color 171 0 0
+vertex 669 226 0
+color 170 0 0
+vertex 651 233 0
+color 150 0 0
+vertex 667 233 0
+color 0 0 0
+polyline 4 1
+vertex 669 226 0
+vertex 651 233 0
+vertex 667 233 0
+vertex 669 226 0
+triangle
+color 143 0 0
+vertex 541 108 0
+color 137 0 0
+vertex 520 132 0
+color 171 0 0
+vertex 526 117 0
+color 0 0 0
+polyline 4 1
+vertex 541 108 0
+vertex 520 132 0
+vertex 526 117 0
+vertex 541 108 0
+triangle
+color 137 0 0
+vertex 520 132 0
+color 162 0 0
+vertex 506 127 0
+color 171 0 0
+vertex 526 117 0
+color 0 0 0
+polyline 4 1
+vertex 520 132 0
+vertex 506 127 0
+vertex 526 117 0
+vertex 520 132 0
+triangle
+color 144 0 0
+vertex 631 310 0
+color 171 0 0
+vertex 663 292 0
+color 138 0 0
+vertex 657 321 0
+color 0 0 0
+polyline 4 1
+vertex 631 310 0
+vertex 663 292 0
+vertex 657 321 0
+vertex 631 310 0
+triangle
+color 131 0 0
+vertex 679 317 0
+color 138 0 0
+vertex 657 321 0
+color 171 0 0
+vertex 663 292 0
+color 0 0 0
+polyline 4 1
+vertex 679 317 0
+vertex 657 321 0
+vertex 663 292 0
+vertex 679 317 0
+triangle
+color 159 0 0
+vertex 578 255 0
+color 153 0 0
+vertex 580 272 0
+color 171 0 0
+vertex 579 256 0
+color 0 0 0
+polyline 4 1
+vertex 578 255 0
+vertex 580 272 0
+vertex 579 256 0
+vertex 578 255 0
+triangle
+color 128 0 0
+vertex 517 312 0
+color 134 0 0
+vertex 503 279 0
+color 172 0 0
+vertex 513 262 0
+color 0 0 0
+polyline 4 1
+vertex 517 312 0
+vertex 503 279 0
+vertex 513 262 0
+vertex 517 312 0
+triangle
+color 166 0 0
+vertex 513 240 0
+color 172 0 0
+vertex 513 262 0
+color 134 0 0
+vertex 503 279 0
+color 0 0 0
+polyline 4 1
+vertex 513 240 0
+vertex 513 262 0
+vertex 503 279 0
+vertex 513 240 0
+triangle
+color 142 0 0
+vertex 654 70 0
+color 172 0 0
+vertex 660 86 0
+color 145 0 0
+vertex 652 98 0
+color 0 0 0
+polyline 4 1
+vertex 654 70 0
+vertex 660 86 0
+vertex 652 98 0
+vertex 654 70 0
+triangle
+color 170 0 0
+vertex 651 233 0
+color 171 0 0
+vertex 669 226 0
+color 172 0 0
+vertex 679 234 0
+color 0 0 0
+polyline 4 1
+vertex 651 233 0
+vertex 669 226 0
+vertex 679 234 0
+vertex 651 233 0
+triangle
+color 172 0 0
+vertex 679 234 0
+color 150 0 0
+vertex 667 233 0
+color 146 0 0
+vertex 696 259 0
+color 0 0 0
+polyline 4 1
+vertex 679 234 0
+vertex 667 233 0
+vertex 696 259 0
+vertex 679 234 0
+triangle
+color 172 0 0
+vertex 679 234 0
+color 171 0 0
+vertex 669 226 0
+color 150 0 0
+vertex 667 233 0
+color 0 0 0
+polyline 4 1
+vertex 679 234 0
+vertex 669 226 0
+vertex 667 233 0
+vertex 679 234 0
+triangle
+color 173 0 0
+vertex 529 278 0
+color 128 0 0
+vertex 517 312 0
+color 172 0 0
+vertex 513 262 0
+color 0 0 0
+polyline 4 1
+vertex 529 278 0
+vertex 517 312 0
+vertex 513 262 0
+vertex 529 278 0
+triangle
+color 142 0 0
+vertex 540 309 0
+color 128 0 0
+vertex 517 312 0
+color 173 0 0
+vertex 529 278 0
+color 0 0 0
+polyline 4 1
+vertex 540 309 0
+vertex 517 312 0
+vertex 529 278 0
+vertex 540 309 0
+triangle
+color 173 0 0
+vertex 576 241 0
+color 159 0 0
+vertex 578 255 0
+color 171 0 0
+vertex 579 256 0
+color 0 0 0
+polyline 4 1
+vertex 576 241 0
+vertex 578 255 0
+vertex 579 256 0
+vertex 576 241 0
+triangle
+color 157 0 0
+vertex 572 236 0
+color 159 0 0
+vertex 578 255 0
+color 173 0 0
+vertex 576 241 0
+color 0 0 0
+polyline 4 1
+vertex 572 236 0
+vertex 578 255 0
+vertex 576 241 0
+vertex 572 236 0
+triangle
+color 139 0 0
+vertex 547 76 0
+color 143 0 0
+vertex 541 108 0
+color 173 0 0
+vertex 536 89 0
+color 0 0 0
+polyline 4 1
+vertex 547 76 0
+vertex 541 108 0
+vertex 536 89 0
+vertex 547 76 0
+triangle
+color 143 0 0
+vertex 541 108 0
+color 171 0 0
+vertex 526 117 0
+color 173 0 0
+vertex 536 89 0
+color 0 0 0
+polyline 4 1
+vertex 541 108 0
+vertex 526 117 0
+vertex 536 89 0
+vertex 541 108 0
+triangle
+color 153 0 0
+vertex 540 229 0
+color 157 0 0
+vertex 572 236 0
+color 174 0 0
+vertex 538 225 0
+color 0 0 0
+polyline 4 1
+vertex 540 229 0
+vertex 572 236 0
+vertex 538 225 0
+vertex 540 229 0
+triangle
+color 166 0 0
+vertex 513 240 0
+color 153 0 0
+vertex 540 229 0
+color 174 0 0
+vertex 538 225 0
+color 0 0 0
+polyline 4 1
+vertex 513 240 0
+vertex 540 229 0
+vertex 538 225 0
+vertex 513 240 0
+triangle
+color 174 0 0
+vertex 664 67 0
+color 142 0 0
+vertex 654 70 0
+color 159 0 0
+vertex 671 54 0
+color 0 0 0
+polyline 4 1
+vertex 664 67 0
+vertex 654 70 0
+vertex 671 54 0
+vertex 664 67 0
+triangle
+color 142 0 0
+vertex 654 70 0
+color 174 0 0
+vertex 664 67 0
+color 172 0 0
+vertex 660 86 0
+color 0 0 0
+polyline 4 1
+vertex 654 70 0
+vertex 664 67 0
+vertex 660 86 0
+vertex 654 70 0
+triangle
+color 153 0 0
+vertex 559 293 0
+color 142 0 0
+vertex 540 309 0
+color 176 0 0
+vertex 550 277 0
+color 0 0 0
+polyline 4 1
+vertex 559 293 0
+vertex 540 309 0
+vertex 550 277 0
+vertex 559 293 0
+triangle
+color 142 0 0
+vertex 540 309 0
+color 173 0 0
+vertex 529 278 0
+color 176 0 0
+vertex 550 277 0
+color 0 0 0
+polyline 4 1
+vertex 540 309 0
+vertex 529 278 0
+vertex 550 277 0
+vertex 540 309 0
+triangle
+color 157 0 0
+vertex 572 236 0
+color 176 0 0
+vertex 560 230 0
+color 174 0 0
+vertex 538 225 0
+color 0 0 0
+polyline 4 1
+vertex 572 236 0
+vertex 560 230 0
+vertex 538 225 0
+vertex 572 236 0
+triangle
+color 176 0 0
+vertex 560 230 0
+color 157 0 0
+vertex 572 236 0
+color 173 0 0
+vertex 576 241 0
+color 0 0 0
+polyline 4 1
+vertex 560 230 0
+vertex 572 236 0
+vertex 576 241 0
+vertex 560 230 0
+triangle
+color 172 0 0
+vertex 679 234 0
+color 146 0 0
+vertex 696 259 0
+color 176 0 0
+vertex 695 248 0
+color 0 0 0
+polyline 4 1
+vertex 679 234 0
+vertex 696 259 0
+vertex 695 248 0
+vertex 679 234 0
+triangle
+color 146 0 0
+vertex 696 259 0
+color 170 0 0
+vertex 703 261 0
+color 176 0 0
+vertex 695 248 0
+color 0 0 0
+polyline 4 1
+vertex 696 259 0
+vertex 703 261 0
+vertex 695 248 0
+vertex 696 259 0
+triangle
+color 144 0 0
+vertex 631 310 0
+color 177 0 0
+vertex 643 277 0
+color 171 0 0
+vertex 663 292 0
+color 0 0 0
+polyline 4 1
+vertex 631 310 0
+vertex 643 277 0
+vertex 663 292 0
+vertex 631 310 0
+triangle
+color 177 0 0
+vertex 643 277 0
+color 144 0 0
+vertex 631 310 0
+color 158 0 0
+vertex 632 276 0
+color 0 0 0
+polyline 4 1
+vertex 643 277 0
+vertex 631 310 0
+vertex 632 276 0
+vertex 643 277 0
+triangle
+color 131 0 0
+vertex 679 317 0
+color 171 0 0
+vertex 663 292 0
+color 177 0 0
+vertex 686 274 0
+color 0 0 0
+polyline 4 1
+vertex 679 317 0
+vertex 663 292 0
+vertex 686 274 0
+vertex 679 317 0
+triangle
+color 149 0 0
+vertex 697 285 0
+color 177 0 0
+vertex 686 274 0
+color 170 0 0
+vertex 703 261 0
+color 0 0 0
+polyline 4 1
+vertex 697 285 0
+vertex 686 274 0
+vertex 703 261 0
+vertex 697 285 0
+triangle
+color 176 0 0
+vertex 695 248 0
+color 170 0 0
+vertex 703 261 0
+color 177 0 0
+vertex 686 274 0
+color 0 0 0
+polyline 4 1
+vertex 695 248 0
+vertex 703 261 0
+vertex 686 274 0
+vertex 695 248 0
+triangle
+color 149 0 0
+vertex 697 285 0
+color 131 0 0
+vertex 679 317 0
+color 177 0 0
+vertex 686 274 0
+color 0 0 0
+polyline 4 1
+vertex 697 285 0
+vertex 679 317 0
+vertex 686 274 0
+vertex 697 285 0
+triangle
+color 178 0 0
+vertex 568 260 0
+color 153 0 0
+vertex 559 293 0
+color 176 0 0
+vertex 550 277 0
+color 0 0 0
+polyline 4 1
+vertex 568 260 0
+vertex 559 293 0
+vertex 550 277 0
+vertex 568 260 0
+triangle
+color 173 0 0
+vertex 576 241 0
+color 171 0 0
+vertex 579 256 0
+color 178 0 0
+vertex 568 260 0
+color 0 0 0
+polyline 4 1
+vertex 576 241 0
+vertex 579 256 0
+vertex 568 260 0
+vertex 576 241 0
+triangle
+color 173 0 0
+vertex 576 241 0
+color 178 0 0
+vertex 568 260 0
+color 176 0 0
+vertex 560 230 0
+color 0 0 0
+polyline 4 1
+vertex 576 241 0
+vertex 568 260 0
+vertex 560 230 0
+vertex 576 241 0
+triangle
+color 178 0 0
+vertex 568 260 0
+color 171 0 0
+vertex 579 256 0
+color 153 0 0
+vertex 580 272 0
+color 0 0 0
+polyline 4 1
+vertex 568 260 0
+vertex 579 256 0
+vertex 580 272 0
+vertex 568 260 0
+triangle
+color 153 0 0
+vertex 580 272 0
+color 153 0 0
+vertex 559 293 0
+color 178 0 0
+vertex 568 260 0
+color 0 0 0
+polyline 4 1
+vertex 580 272 0
+vertex 559 293 0
+vertex 568 260 0
+vertex 580 272 0
+triangle
+color 178 0 0
+vertex 467 118 0
+color 139 0 0
+vertex 492 114 0
+color 169 0 0
+vertex 463 94 0
+color 0 0 0
+polyline 4 1
+vertex 467 118 0
+vertex 492 114 0
+vertex 463 94 0
+vertex 467 118 0
+triangle
+color 156 0 0
+vertex 634 254 0
+color 179 0 0
+vertex 649 254 0
+color 158 0 0
+vertex 632 276 0
+color 0 0 0
+polyline 4 1
+vertex 634 254 0
+vertex 649 254 0
+vertex 632 276 0
+vertex 634 254 0
+triangle
+color 179 0 0
+vertex 649 254 0
+color 177 0 0
+vertex 643 277 0
+color 158 0 0
+vertex 632 276 0
+color 0 0 0
+polyline 4 1
+vertex 649 254 0
+vertex 643 277 0
+vertex 632 276 0
+vertex 649 254 0
+triangle
+color 156 0 0
+vertex 634 254 0
+color 170 0 0
+vertex 651 233 0
+color 179 0 0
+vertex 649 254 0
+color 0 0 0
+polyline 4 1
+vertex 634 254 0
+vertex 651 233 0
+vertex 649 254 0
+vertex 634 254 0
+triangle
+color 172 0 0
+vertex 679 234 0
+color 179 0 0
+vertex 649 254 0
+color 170 0 0
+vertex 651 233 0
+color 0 0 0
+polyline 4 1
+vertex 679 234 0
+vertex 649 254 0
+vertex 651 233 0
+vertex 679 234 0
+triangle
+color 176 0 0
+vertex 695 248 0
+color 177 0 0
+vertex 686 274 0
+color 179 0 0
+vertex 649 254 0
+color 0 0 0
+polyline 4 1
+vertex 695 248 0
+vertex 686 274 0
+vertex 649 254 0
+vertex 695 248 0
+triangle
+color 179 0 0
+vertex 649 254 0
+color 172 0 0
+vertex 679 234 0
+color 176 0 0
+vertex 695 248 0
+color 0 0 0
+polyline 4 1
+vertex 649 254 0
+vertex 679 234 0
+vertex 695 248 0
+vertex 649 254 0
+triangle
+color 166 0 0
+vertex 513 240 0
+color 181 0 0
+vertex 516 238 0
+color 172 0 0
+vertex 513 262 0
+color 0 0 0
+polyline 4 1
+vertex 513 240 0
+vertex 516 238 0
+vertex 513 262 0
+vertex 513 240 0
+triangle
+color 181 0 0
+vertex 516 238 0
+color 166 0 0
+vertex 513 240 0
+color 174 0 0
+vertex 538 225 0
+color 0 0 0
+polyline 4 1
+vertex 516 238 0
+vertex 513 240 0
+vertex 538 225 0
+vertex 516 238 0
+triangle
+color 159 0 0
+vertex 671 54 0
+color 150 0 0
+vertex 689 52 0
+color 181 0 0
+vertex 693 45 0
+color 0 0 0
+polyline 4 1
+vertex 671 54 0
+vertex 689 52 0
+vertex 693 45 0
+vertex 671 54 0
+triangle
+color 157 0 0
+vertex 717 63 0
+color 139 0 0
+vertex 717 84 0
+color 183 0 0
+vertex 736 72 0
+color 0 0 0
+polyline 4 1
+vertex 717 63 0
+vertex 717 84 0
+vertex 736 72 0
+vertex 717 63 0
+triangle
+color 147 0 0
+vertex 526 57 0
+color 139 0 0
+vertex 547 76 0
+color 183 0 0
+vertex 526 64 0
+color 0 0 0
+polyline 4 1
+vertex 526 57 0
+vertex 547 76 0
+vertex 526 64 0
+vertex 526 57 0
+triangle
+color 183 0 0
+vertex 526 64 0
+color 139 0 0
+vertex 547 76 0
+color 173 0 0
+vertex 536 89 0
+color 0 0 0
+polyline 4 1
+vertex 526 64 0
+vertex 547 76 0
+vertex 536 89 0
+vertex 526 64 0
+triangle
+color 176 0 0
+vertex 560 230 0
+color 178 0 0
+vertex 568 260 0
+color 185 0 0
+vertex 533 252 0
+color 0 0 0
+polyline 4 1
+vertex 560 230 0
+vertex 568 260 0
+vertex 533 252 0
+vertex 560 230 0
+triangle
+color 173 0 0
+vertex 529 278 0
+color 172 0 0
+vertex 513 262 0
+color 185 0 0
+vertex 533 252 0
+color 0 0 0
+polyline 4 1
+vertex 529 278 0
+vertex 513 262 0
+vertex 533 252 0
+vertex 529 278 0
+triangle
+color 185 0 0
+vertex 533 252 0
+color 172 0 0
+vertex 513 262 0
+color 181 0 0
+vertex 516 238 0
+color 0 0 0
+polyline 4 1
+vertex 533 252 0
+vertex 513 262 0
+vertex 516 238 0
+vertex 533 252 0
+triangle
+color 174 0 0
+vertex 538 225 0
+color 185 0 0
+vertex 533 252 0
+color 181 0 0
+vertex 516 238 0
+color 0 0 0
+polyline 4 1
+vertex 538 225 0
+vertex 533 252 0
+vertex 516 238 0
+vertex 538 225 0
+triangle
+color 176 0 0
+vertex 550 277 0
+color 173 0 0
+vertex 529 278 0
+color 185 0 0
+vertex 533 252 0
+color 0 0 0
+polyline 4 1
+vertex 550 277 0
+vertex 529 278 0
+vertex 533 252 0
+vertex 550 277 0
+triangle
+color 176 0 0
+vertex 560 230 0
+color 185 0 0
+vertex 533 252 0
+color 174 0 0
+vertex 538 225 0
+color 0 0 0
+polyline 4 1
+vertex 560 230 0
+vertex 533 252 0
+vertex 538 225 0
+vertex 560 230 0
+triangle
+color 178 0 0
+vertex 568 260 0
+color 176 0 0
+vertex 550 277 0
+color 185 0 0
+vertex 533 252 0
+color 0 0 0
+polyline 4 1
+vertex 568 260 0
+vertex 550 277 0
+vertex 533 252 0
+vertex 568 260 0
+triangle
+color 139 0 0
+vertex 492 114 0
+color 178 0 0
+vertex 467 118 0
+color 185 0 0
+vertex 482 130 0
+color 0 0 0
+polyline 4 1
+vertex 492 114 0
+vertex 467 118 0
+vertex 482 130 0
+vertex 492 114 0
+triangle
+color 139 0 0
+vertex 492 114 0
+color 185 0 0
+vertex 482 130 0
+color 162 0 0
+vertex 506 127 0
+color 0 0 0
+polyline 4 1
+vertex 492 114 0
+vertex 482 130 0
+vertex 506 127 0
+vertex 492 114 0
+triangle
+color 139 0 0
+vertex 717 84 0
+color 141 0 0
+vertex 707 112 0
+color 185 0 0
+vertex 735 103 0
+color 0 0 0
+polyline 4 1
+vertex 717 84 0
+vertex 707 112 0
+vertex 735 103 0
+vertex 717 84 0
+triangle
+color 139 0 0
+vertex 717 84 0
+color 185 0 0
+vertex 735 103 0
+color 183 0 0
+vertex 736 72 0
+color 0 0 0
+polyline 4 1
+vertex 717 84 0
+vertex 735 103 0
+vertex 736 72 0
+vertex 717 84 0
+triangle
+color 177 0 0
+vertex 686 274 0
+color 186 0 0
+vertex 662 275 0
+color 179 0 0
+vertex 649 254 0
+color 0 0 0
+polyline 4 1
+vertex 686 274 0
+vertex 662 275 0
+vertex 649 254 0
+vertex 686 274 0
+triangle
+color 186 0 0
+vertex 662 275 0
+color 177 0 0
+vertex 686 274 0
+color 171 0 0
+vertex 663 292 0
+color 0 0 0
+polyline 4 1
+vertex 662 275 0
+vertex 686 274 0
+vertex 663 292 0
+vertex 662 275 0
+triangle
+color 186 0 0
+vertex 662 275 0
+color 177 0 0
+vertex 643 277 0
+color 179 0 0
+vertex 649 254 0
+color 0 0 0
+polyline 4 1
+vertex 662 275 0
+vertex 643 277 0
+vertex 649 254 0
+vertex 662 275 0
+triangle
+color 171 0 0
+vertex 663 292 0
+color 177 0 0
+vertex 643 277 0
+color 186 0 0
+vertex 662 275 0
+color 0 0 0
+polyline 4 1
+vertex 663 292 0
+vertex 643 277 0
+vertex 662 275 0
+vertex 663 292 0
+triangle
+color 187 0 0
+vertex 717 49 0
+color 157 0 0
+vertex 717 63 0
+color 183 0 0
+vertex 736 72 0
+color 0 0 0
+polyline 4 1
+vertex 717 49 0
+vertex 717 63 0
+vertex 736 72 0
+vertex 717 49 0
+triangle
+color 150 0 0
+vertex 689 52 0
+color 157 0 0
+vertex 717 63 0
+color 187 0 0
+vertex 717 49 0
+color 0 0 0
+polyline 4 1
+vertex 689 52 0
+vertex 717 63 0
+vertex 717 49 0
+vertex 689 52 0
+triangle
+color 150 0 0
+vertex 689 52 0
+color 187 0 0
+vertex 717 49 0
+color 181 0 0
+vertex 693 45 0
+color 0 0 0
+polyline 4 1
+vertex 689 52 0
+vertex 717 49 0
+vertex 693 45 0
+vertex 689 52 0
+triangle
+color 187 0 0
+vertex 460 77 0
+color 143 0 0
+vertex 483 73 0
+color 167 0 0
+vertex 493 59 0
+color 0 0 0
+polyline 4 1
+vertex 460 77 0
+vertex 483 73 0
+vertex 493 59 0
+vertex 460 77 0
+triangle
+color 143 0 0
+vertex 483 73 0
+color 187 0 0
+vertex 460 77 0
+color 169 0 0
+vertex 463 94 0
+color 0 0 0
+polyline 4 1
+vertex 483 73 0
+vertex 460 77 0
+vertex 463 94 0
+vertex 483 73 0
+triangle
+color 145 0 0
+vertex 652 98 0
+color 188 0 0
+vertex 669 103 0
+color 156 0 0
+vertex 673 116 0
+color 0 0 0
+polyline 4 1
+vertex 652 98 0
+vertex 669 103 0
+vertex 673 116 0
+vertex 652 98 0
+triangle
+color 172 0 0
+vertex 660 86 0
+color 188 0 0
+vertex 669 103 0
+color 145 0 0
+vertex 652 98 0
+color 0 0 0
+polyline 4 1
+vertex 660 86 0
+vertex 669 103 0
+vertex 652 98 0
+vertex 660 86 0
+triangle
+color 141 0 0
+vertex 707 112 0
+color 166 0 0
+vertex 696 123 0
+color 189 0 0
+vertex 717 123 0
+color 0 0 0
+polyline 4 1
+vertex 707 112 0
+vertex 696 123 0
+vertex 717 123 0
+vertex 707 112 0
+triangle
+color 185 0 0
+vertex 735 103 0
+color 141 0 0
+vertex 707 112 0
+color 189 0 0
+vertex 717 123 0
+color 0 0 0
+polyline 4 1
+vertex 735 103 0
+vertex 707 112 0
+vertex 717 123 0
+vertex 735 103 0
+triangle
+color 162 0 0
+vertex 506 127 0
+color 185 0 0
+vertex 482 130 0
+color 190 0 0
+vertex 502 132 0
+color 0 0 0
+polyline 4 1
+vertex 506 127 0
+vertex 482 130 0
+vertex 502 132 0
+vertex 506 127 0
+triangle
+color 162 0 0
+vertex 506 127 0
+color 190 0 0
+vertex 502 132 0
+color 171 0 0
+vertex 526 117 0
+color 0 0 0
+polyline 4 1
+vertex 506 127 0
+vertex 502 132 0
+vertex 526 117 0
+vertex 506 127 0
+triangle
+color 191 0 0
+vertex 689 121 0
+color 166 0 0
+vertex 696 123 0
+color 156 0 0
+vertex 673 116 0
+color 0 0 0
+polyline 4 1
+vertex 689 121 0
+vertex 696 123 0
+vertex 673 116 0
+vertex 689 121 0
+triangle
+color 166 0 0
+vertex 696 123 0
+color 191 0 0
+vertex 689 121 0
+color 189 0 0
+vertex 717 123 0
+color 0 0 0
+polyline 4 1
+vertex 696 123 0
+vertex 689 121 0
+vertex 717 123 0
+vertex 696 123 0
+triangle
+color 191 0 0
+vertex 689 121 0
+color 156 0 0
+vertex 673 116 0
+color 188 0 0
+vertex 669 103 0
+color 0 0 0
+polyline 4 1
+vertex 689 121 0
+vertex 673 116 0
+vertex 669 103 0
+vertex 689 121 0
+triangle
+color 185 0 0
+vertex 482 130 0
+color 178 0 0
+vertex 467 118 0
+color 193 0 0
+vertex 459 109 0
+color 0 0 0
+polyline 4 1
+vertex 482 130 0
+vertex 467 118 0
+vertex 459 109 0
+vertex 482 130 0
+triangle
+color 187 0 0
+vertex 460 77 0
+color 193 0 0
+vertex 459 109 0
+color 169 0 0
+vertex 463 94 0
+color 0 0 0
+polyline 4 1
+vertex 460 77 0
+vertex 459 109 0
+vertex 463 94 0
+vertex 460 77 0
+triangle
+color 178 0 0
+vertex 467 118 0
+color 169 0 0
+vertex 463 94 0
+color 193 0 0
+vertex 459 109 0
+color 0 0 0
+polyline 4 1
+vertex 467 118 0
+vertex 463 94 0
+vertex 459 109 0
+vertex 467 118 0
+triangle
+color 194 0 0
+vertex 681 53 0
+color 159 0 0
+vertex 671 54 0
+color 181 0 0
+vertex 693 45 0
+color 0 0 0
+polyline 4 1
+vertex 681 53 0
+vertex 671 54 0
+vertex 693 45 0
+vertex 681 53 0
+triangle
+color 174 0 0
+vertex 664 67 0
+color 159 0 0
+vertex 671 54 0
+color 194 0 0
+vertex 681 53 0
+color 0 0 0
+polyline 4 1
+vertex 664 67 0
+vertex 671 54 0
+vertex 681 53 0
+vertex 664 67 0
+triangle
+color 147 0 0
+vertex 526 57 0
+color 183 0 0
+vertex 526 64 0
+color 195 0 0
+vertex 507 55 0
+color 0 0 0
+polyline 4 1
+vertex 526 57 0
+vertex 526 64 0
+vertex 507 55 0
+vertex 526 57 0
+triangle
+color 195 0 0
+vertex 507 55 0
+color 167 0 0
+vertex 493 59 0
+color 147 0 0
+vertex 526 57 0
+color 0 0 0
+polyline 4 1
+vertex 507 55 0
+vertex 493 59 0
+vertex 526 57 0
+vertex 507 55 0
+triangle
+color 171 0 0
+vertex 526 117 0
+color 190 0 0
+vertex 502 132 0
+color 196 0 0
+vertex 516 121 0
+color 0 0 0
+polyline 4 1
+vertex 526 117 0
+vertex 502 132 0
+vertex 516 121 0
+vertex 526 117 0
+triangle
+color 198 0 0
+vertex 671 77 0
+color 188 0 0
+vertex 669 103 0
+color 172 0 0
+vertex 660 86 0
+color 0 0 0
+polyline 4 1
+vertex 671 77 0
+vertex 669 103 0
+vertex 660 86 0
+vertex 671 77 0
+triangle
+color 194 0 0
+vertex 681 53 0
+color 198 0 0
+vertex 671 77 0
+color 174 0 0
+vertex 664 67 0
+color 0 0 0
+polyline 4 1
+vertex 681 53 0
+vertex 671 77 0
+vertex 664 67 0
+vertex 681 53 0
+triangle
+color 174 0 0
+vertex 664 67 0
+color 198 0 0
+vertex 671 77 0
+color 172 0 0
+vertex 660 86 0
+color 0 0 0
+polyline 4 1
+vertex 664 67 0
+vertex 671 77 0
+vertex 660 86 0
+vertex 664 67 0
+triangle
+color 181 0 0
+vertex 693 45 0
+color 187 0 0
+vertex 717 49 0
+color 199 0 0
+vertex 706 47 0
+color 0 0 0
+polyline 4 1
+vertex 693 45 0
+vertex 717 49 0
+vertex 706 47 0
+vertex 693 45 0
+triangle
+color 199 0 0
+vertex 706 47 0
+color 194 0 0
+vertex 681 53 0
+color 181 0 0
+vertex 693 45 0
+color 0 0 0
+polyline 4 1
+vertex 706 47 0
+vertex 681 53 0
+vertex 693 45 0
+vertex 706 47 0
+triangle
+color 173 0 0
+vertex 536 89 0
+color 171 0 0
+vertex 526 117 0
+color 199 0 0
+vertex 523 99 0
+color 0 0 0
+polyline 4 1
+vertex 536 89 0
+vertex 526 117 0
+vertex 523 99 0
+vertex 536 89 0
+triangle
+color 171 0 0
+vertex 526 117 0
+color 196 0 0
+vertex 516 121 0
+color 199 0 0
+vertex 523 99 0
+color 0 0 0
+polyline 4 1
+vertex 526 117 0
+vertex 516 121 0
+vertex 523 99 0
+vertex 526 117 0
+triangle
+color 187 0 0
+vertex 460 77 0
+color 199 0 0
+vertex 458 88 0
+color 193 0 0
+vertex 459 109 0
+color 0 0 0
+polyline 4 1
+vertex 460 77 0
+vertex 458 88 0
+vertex 459 109 0
+vertex 460 77 0
+triangle
+color 167 0 0
+vertex 493 59 0
+color 195 0 0
+vertex 507 55 0
+color 200 0 0
+vertex 486 56 0
+color 0 0 0
+polyline 4 1
+vertex 493 59 0
+vertex 507 55 0
+vertex 486 56 0
+vertex 493 59 0
+triangle
+color 200 0 0
+vertex 731 72 0
+color 183 0 0
+vertex 736 72 0
+color 185 0 0
+vertex 735 103 0
+color 0 0 0
+polyline 4 1
+vertex 731 72 0
+vertex 736 72 0
+vertex 735 103 0
+vertex 731 72 0
+triangle
+color 187 0 0
+vertex 717 49 0
+color 183 0 0
+vertex 736 72 0
+color 200 0 0
+vertex 731 72 0
+color 0 0 0
+polyline 4 1
+vertex 717 49 0
+vertex 736 72 0
+vertex 731 72 0
+vertex 717 49 0
+triangle
+color 200 0 0
+vertex 731 72 0
+color 199 0 0
+vertex 706 47 0
+color 187 0 0
+vertex 717 49 0
+color 0 0 0
+polyline 4 1
+vertex 731 72 0
+vertex 706 47 0
+vertex 717 49 0
+vertex 731 72 0
+triangle
+color 167 0 0
+vertex 493 59 0
+color 200 0 0
+vertex 471 70 0
+color 187 0 0
+vertex 460 77 0
+color 0 0 0
+polyline 4 1
+vertex 493 59 0
+vertex 471 70 0
+vertex 460 77 0
+vertex 493 59 0
+triangle
+color 167 0 0
+vertex 493 59 0
+color 200 0 0
+vertex 486 56 0
+color 200 0 0
+vertex 471 70 0
+color 0 0 0
+polyline 4 1
+vertex 493 59 0
+vertex 486 56 0
+vertex 471 70 0
+vertex 493 59 0
+triangle
+color 187 0 0
+vertex 460 77 0
+color 200 0 0
+vertex 471 70 0
+color 199 0 0
+vertex 458 88 0
+color 0 0 0
+polyline 4 1
+vertex 460 77 0
+vertex 471 70 0
+vertex 458 88 0
+vertex 460 77 0
+triangle
+color 200 0 0
+vertex 731 109 0
+color 185 0 0
+vertex 735 103 0
+color 189 0 0
+vertex 717 123 0
+color 0 0 0
+polyline 4 1
+vertex 731 109 0
+vertex 735 103 0
+vertex 717 123 0
+vertex 731 109 0
+triangle
+color 200 0 0
+vertex 731 72 0
+color 185 0 0
+vertex 735 103 0
+color 200 0 0
+vertex 731 109 0
+color 0 0 0
+polyline 4 1
+vertex 731 72 0
+vertex 735 103 0
+vertex 731 109 0
+vertex 731 72 0
+triangle
+color 201 0 0
+vertex 489 115 0
+color 190 0 0
+vertex 502 132 0
+color 185 0 0
+vertex 482 130 0
+color 0 0 0
+polyline 4 1
+vertex 489 115 0
+vertex 502 132 0
+vertex 482 130 0
+vertex 489 115 0
+triangle
+color 199 0 0
+vertex 523 99 0
+color 196 0 0
+vertex 516 121 0
+color 201 0 0
+vertex 489 115 0
+color 0 0 0
+polyline 4 1
+vertex 523 99 0
+vertex 516 121 0
+vertex 489 115 0
+vertex 523 99 0
+triangle
+color 201 0 0
+vertex 489 115 0
+color 193 0 0
+vertex 459 109 0
+color 199 0 0
+vertex 458 88 0
+color 0 0 0
+polyline 4 1
+vertex 489 115 0
+vertex 459 109 0
+vertex 458 88 0
+vertex 489 115 0
+triangle
+color 196 0 0
+vertex 516 121 0
+color 190 0 0
+vertex 502 132 0
+color 201 0 0
+vertex 489 115 0
+color 0 0 0
+polyline 4 1
+vertex 516 121 0
+vertex 502 132 0
+vertex 489 115 0
+vertex 516 121 0
+triangle
+color 200 0 0
+vertex 471 70 0
+color 201 0 0
+vertex 489 115 0
+color 199 0 0
+vertex 458 88 0
+color 0 0 0
+polyline 4 1
+vertex 471 70 0
+vertex 489 115 0
+vertex 458 88 0
+vertex 471 70 0
+triangle
+color 185 0 0
+vertex 482 130 0
+color 193 0 0
+vertex 459 109 0
+color 201 0 0
+vertex 489 115 0
+color 0 0 0
+polyline 4 1
+vertex 482 130 0
+vertex 459 109 0
+vertex 489 115 0
+vertex 482 130 0
+triangle
+color 201 0 0
+vertex 521 72 0
+color 183 0 0
+vertex 526 64 0
+color 173 0 0
+vertex 536 89 0
+color 0 0 0
+polyline 4 1
+vertex 521 72 0
+vertex 526 64 0
+vertex 536 89 0
+vertex 521 72 0
+triangle
+color 183 0 0
+vertex 526 64 0
+color 201 0 0
+vertex 521 72 0
+color 195 0 0
+vertex 507 55 0
+color 0 0 0
+polyline 4 1
+vertex 526 64 0
+vertex 521 72 0
+vertex 507 55 0
+vertex 526 64 0
+triangle
+color 199 0 0
+vertex 523 99 0
+color 201 0 0
+vertex 521 72 0
+color 173 0 0
+vertex 536 89 0
+color 0 0 0
+polyline 4 1
+vertex 523 99 0
+vertex 521 72 0
+vertex 536 89 0
+vertex 523 99 0
+triangle
+color 189 0 0
+vertex 717 123 0
+color 191 0 0
+vertex 689 121 0
+color 203 0 0
+vertex 709 111 0
+color 0 0 0
+polyline 4 1
+vertex 717 123 0
+vertex 689 121 0
+vertex 709 111 0
+vertex 717 123 0
+triangle
+color 200 0 0
+vertex 731 109 0
+color 189 0 0
+vertex 717 123 0
+color 203 0 0
+vertex 709 111 0
+color 0 0 0
+polyline 4 1
+vertex 731 109 0
+vertex 717 123 0
+vertex 709 111 0
+vertex 731 109 0
+triangle
+color 200 0 0
+vertex 731 109 0
+color 203 0 0
+vertex 709 111 0
+color 200 0 0
+vertex 731 72 0
+color 0 0 0
+polyline 4 1
+vertex 731 109 0
+vertex 709 111 0
+vertex 731 72 0
+vertex 731 109 0
+triangle
+color 203 0 0
+vertex 709 111 0
+color 191 0 0
+vertex 689 121 0
+color 203 0 0
+vertex 682 103 0
+color 0 0 0
+polyline 4 1
+vertex 709 111 0
+vertex 689 121 0
+vertex 682 103 0
+vertex 709 111 0
+triangle
+color 188 0 0
+vertex 669 103 0
+color 203 0 0
+vertex 682 103 0
+color 191 0 0
+vertex 689 121 0
+color 0 0 0
+polyline 4 1
+vertex 669 103 0
+vertex 682 103 0
+vertex 689 121 0
+vertex 669 103 0
+triangle
+color 198 0 0
+vertex 671 77 0
+color 203 0 0
+vertex 682 103 0
+color 188 0 0
+vertex 669 103 0
+color 0 0 0
+polyline 4 1
+vertex 671 77 0
+vertex 682 103 0
+vertex 669 103 0
+vertex 671 77 0
+triangle
+color 194 0 0
+vertex 681 53 0
+color 205 0 0
+vertex 694 67 0
+color 198 0 0
+vertex 671 77 0
+color 0 0 0
+polyline 4 1
+vertex 681 53 0
+vertex 694 67 0
+vertex 671 77 0
+vertex 681 53 0
+triangle
+color 205 0 0
+vertex 694 67 0
+color 203 0 0
+vertex 709 111 0
+color 203 0 0
+vertex 682 103 0
+color 0 0 0
+polyline 4 1
+vertex 694 67 0
+vertex 709 111 0
+vertex 682 103 0
+vertex 694 67 0
+triangle
+color 205 0 0
+vertex 694 67 0
+color 203 0 0
+vertex 682 103 0
+color 198 0 0
+vertex 671 77 0
+color 0 0 0
+polyline 4 1
+vertex 694 67 0
+vertex 682 103 0
+vertex 671 77 0
+vertex 694 67 0
+triangle
+color 203 0 0
+vertex 709 111 0
+color 205 0 0
+vertex 694 67 0
+color 200 0 0
+vertex 731 72 0
+color 0 0 0
+polyline 4 1
+vertex 709 111 0
+vertex 694 67 0
+vertex 731 72 0
+vertex 709 111 0
+triangle
+color 205 0 0
+vertex 694 67 0
+color 199 0 0
+vertex 706 47 0
+color 200 0 0
+vertex 731 72 0
+color 0 0 0
+polyline 4 1
+vertex 694 67 0
+vertex 706 47 0
+vertex 731 72 0
+vertex 694 67 0
+triangle
+color 194 0 0
+vertex 681 53 0
+color 199 0 0
+vertex 706 47 0
+color 205 0 0
+vertex 694 67 0
+color 0 0 0
+polyline 4 1
+vertex 681 53 0
+vertex 706 47 0
+vertex 694 67 0
+vertex 681 53 0
+triangle
+color 207 0 0
+vertex 503 72 0
+color 200 0 0
+vertex 486 56 0
+color 195 0 0
+vertex 507 55 0
+color 0 0 0
+polyline 4 1
+vertex 503 72 0
+vertex 486 56 0
+vertex 507 55 0
+vertex 503 72 0
+triangle
+color 199 0 0
+vertex 523 99 0
+color 201 0 0
+vertex 489 115 0
+color 207 0 0
+vertex 503 72 0
+color 0 0 0
+polyline 4 1
+vertex 523 99 0
+vertex 489 115 0
+vertex 503 72 0
+vertex 523 99 0
+triangle
+color 199 0 0
+vertex 523 99 0
+color 207 0 0
+vertex 503 72 0
+color 201 0 0
+vertex 521 72 0
+color 0 0 0
+polyline 4 1
+vertex 523 99 0
+vertex 503 72 0
+vertex 521 72 0
+vertex 523 99 0
+triangle
+color 207 0 0
+vertex 503 72 0
+color 200 0 0
+vertex 471 70 0
+color 200 0 0
+vertex 486 56 0
+color 0 0 0
+polyline 4 1
+vertex 503 72 0
+vertex 471 70 0
+vertex 486 56 0
+vertex 503 72 0
+triangle
+color 207 0 0
+vertex 503 72 0
+color 201 0 0
+vertex 489 115 0
+color 200 0 0
+vertex 471 70 0
+color 0 0 0
+polyline 4 1
+vertex 503 72 0
+vertex 489 115 0
+vertex 471 70 0
+vertex 503 72 0
+triangle
+color 201 0 0
+vertex 521 72 0
+color 207 0 0
+vertex 503 72 0
+color 195 0 0
+vertex 507 55 0
+color 0 0 0
+polyline 4 1
+vertex 521 72 0
+vertex 503 72 0
+vertex 507 55 0
+vertex 521 72 0
+polyline 5 3
+vertex 2 2 0
+vertex 797 2 0
+vertex 797 597 0
+vertex 2   597 0
+vertex 2   2   0 

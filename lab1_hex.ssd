@@ -1,0 +1,383 @@
+screen 812 812 255 255 255
+#Polylines to draw hexagon swirls
+save lab1_hex.ppm
+color 0 255 255
+polyline 7 1
+vertex 410 413 0
+vertex 400 413 0
+vertex 395 405 0
+vertex 400 396 0
+vertex 410 396 0
+vertex 415 405 0
+vertex 410 413 0
+color 6 249 255
+polyline 7 1
+vertex 414 422 0
+vertex 394 422 0
+vertex 385 404 0
+vertex 395 387 0
+vertex 415 387 0
+vertex 424 405 0
+vertex 414 422 0
+color 12 243 255
+polyline 7 1
+vertex 419 431 0
+vertex 389 430 0
+vertex 375 403 0
+vertex 390 378 0
+vertex 420 379 0
+vertex 434 406 0
+vertex 419 431 0
+color 19 236 255
+polyline 7 1
+vertex 423 440 0
+vertex 383 438 0
+vertex 365 402 0
+vertex 386 369 0
+vertex 426 371 0
+vertex 444 407 0
+vertex 423 440 0
+color 25 230 255
+polyline 7 1
+vertex 426 449 0
+vertex 377 446 0
+vertex 355 401 0
+vertex 383 360 0
+vertex 432 363 0
+vertex 454 408 0
+vertex 426 449 0
+color 31 224 255
+polyline 7 1
+vertex 430 459 0
+vertex 370 454 0
+vertex 345 399 0
+vertex 379 350 0
+vertex 439 355 0
+vertex 464 410 0
+vertex 430 459 0
+color 38 217 255
+polyline 7 1
+vertex 433 468 0
+vertex 363 461 0
+vertex 335 397 0
+vertex 376 341 0
+vertex 446 348 0
+vertex 474 412 0
+vertex 433 468 0
+color 44 211 255
+polyline 7 1
+vertex 436 478 0
+vertex 356 468 0
+vertex 325 395 0
+vertex 373 331 0
+vertex 453 341 0
+vertex 484 414 0
+vertex 436 478 0
+color 51 204 255
+polyline 7 1
+vertex 438 488 0
+vertex 349 475 0
+vertex 315 392 0
+vertex 371 321 0
+vertex 460 334 0
+vertex 494 417 0
+vertex 438 488 0
+color 57 198 255
+polyline 7 1
+vertex 440 498 0
+vertex 342 482 0
+vertex 306 389 0
+vertex 369 311 0
+vertex 467 327 0
+vertex 503 420 0
+vertex 440 498 0
+color 63 192 255
+polyline 7 1
+vertex 442 508 0
+vertex 334 489 0
+vertex 296 385 0
+vertex 367 301 0
+vertex 475 320 0
+vertex 513 424 0
+vertex 442 508 0
+color 70 185 255
+polyline 7 1
+vertex 444 518 0
+vertex 326 495 0
+vertex 287 382 0
+vertex 365 291 0
+vertex 483 314 0
+vertex 522 427 0
+vertex 444 518 0
+color 76 179 255
+polyline 7 1
+vertex 445 528 0
+vertex 318 501 0
+vertex 277 377 0
+vertex 364 281 0
+vertex 491 308 0
+vertex 532 432 0
+vertex 445 528 0
+color 82 173 255
+polyline 7 1
+vertex 445 538 0
+vertex 309 507 0
+vertex 268 373 0
+vertex 364 271 0
+vertex 500 302 0
+vertex 541 436 0
+vertex 445 538 0
+color 89 166 255
+polyline 7 1
+vertex 446 549 0
+vertex 300 512 0
+vertex 259 368 0
+vertex 363 260 0
+vertex 509 297 0
+vertex 550 441 0
+vertex 446 549 0
+color 95 160 255
+polyline 7 1
+vertex 446 559 0
+vertex 291 518 0
+vertex 250 363 0
+vertex 363 250 0
+vertex 518 291 0
+vertex 559 446 0
+vertex 446 559 0
+color 102 153 255
+polyline 7 1
+vertex 446 569 0
+vertex 282 523 0
+vertex 241 358 0
+vertex 363 240 0
+vertex 527 286 0
+vertex 568 451 0
+vertex 446 569 0
+color 108 147 255
+polyline 7 1
+vertex 445 580 0
+vertex 273 527 0
+vertex 232 352 0
+vertex 364 229 0
+vertex 536 282 0
+vertex 577 457 0
+vertex 445 580 0
+color 114 141 255
+polyline 7 1
+vertex 444 590 0
+vertex 263 532 0
+vertex 224 346 0
+vertex 365 219 0
+vertex 546 277 0
+vertex 585 463 0
+vertex 444 590 0
+color 121 134 255
+polyline 7 1
+vertex 443 601 0
+vertex 254 536 0
+vertex 215 339 0
+vertex 366 208 0
+vertex 555 273 0
+vertex 594 470 0
+vertex 443 601 0
+color 127 128 255
+polyline 7 1
+vertex 441 611 0
+vertex 244 539 0
+vertex 207 333 0
+vertex 368 198 0
+vertex 565 270 0
+vertex 602 476 0
+vertex 441 611 0
+color 133 122 255
+polyline 7 1
+vertex 439 622 0
+vertex 234 543 0
+vertex 199 326 0
+vertex 370 187 0
+vertex 575 266 0
+vertex 610 483 0
+vertex 439 622 0
+color 140 115 255
+polyline 7 1
+vertex 437 632 0
+vertex 223 546 0
+vertex 191 318 0
+vertex 372 177 0
+vertex 586 263 0
+vertex 618 491 0
+vertex 437 632 0
+color 146 109 255
+polyline 7 1
+vertex 434 643 0
+vertex 213 549 0
+vertex 184 311 0
+vertex 375 166 0
+vertex 596 260 0
+vertex 625 498 0
+vertex 434 643 0
+color 153 102 255
+polyline 7 1
+vertex 431 653 0
+vertex 202 551 0
+vertex 176 303 0
+vertex 378 156 0
+vertex 607 258 0
+vertex 633 506 0
+vertex 431 653 0
+color 159 96 255
+polyline 7 1
+vertex 427 664 0
+vertex 192 554 0
+vertex 169 295 0
+vertex 382 145 0
+vertex 617 255 0
+vertex 640 514 0
+vertex 427 664 0
+color 165 90 255
+polyline 7 1
+vertex 423 674 0
+vertex 181 555 0
+vertex 162 286 0
+vertex 386 135 0
+vertex 628 254 0
+vertex 647 523 0
+vertex 423 674 0
+color 172 83 255
+polyline 7 1
+vertex 419 684 0
+vertex 170 557 0
+vertex 155 277 0
+vertex 390 125 0
+vertex 639 252 0
+vertex 654 532 0
+vertex 419 684 0
+color 178 77 255
+polyline 7 1
+vertex 415 694 0
+vertex 159 558 0
+vertex 148 268 0
+vertex 394 115 0
+vertex 650 251 0
+vertex 661 541 0
+vertex 415 694 0
+color 184 71 255
+polyline 7 1
+vertex 410 704 0
+vertex 147 559 0
+vertex 142 259 0
+vertex 399 105 0
+vertex 662 250 0
+vertex 667 550 0
+vertex 410 704 0
+color 191 64 255
+polyline 7 1
+vertex 405 715 0
+vertex 136 560 0
+vertex 136 250 0
+vertex 404 95 0
+vertex 673 249 0
+vertex 673 559 0
+vertex 405 715 0
+color 197 58 255
+polyline 7 1
+vertex 399 724 0
+vertex 125 560 0
+vertex 130 240 0
+vertex 410 85 0
+vertex 684 249 0
+vertex 679 569 0
+vertex 399 724 0
+color 204 51 255
+polyline 7 1
+vertex 393 734 0
+vertex 113 559 0
+vertex 125 230 0
+vertex 416 75 0
+vertex 696 250 0
+vertex 684 579 0
+vertex 393 734 0
+color 210 45 255
+polyline 7 1
+vertex 387 744 0
+vertex 102 559 0
+vertex 119 219 0
+vertex 422 65 0
+vertex 707 250 0
+vertex 690 590 0
+vertex 387 744 0
+color 216 39 255
+polyline 7 1
+vertex 380 754 0
+vertex 90 558 0
+vertex 114 209 0
+vertex 429 55 0
+vertex 719 251 0
+vertex 695 600 0
+vertex 380 754 0
+color 223 32 255
+polyline 7 1
+vertex 373 763 0
+vertex 78 557 0
+vertex 110 198 0
+vertex 436 46 0
+vertex 731 252 0
+vertex 699 611 0
+vertex 373 763 0
+color 229 26 255
+polyline 7 1
+vertex 366 772 0
+vertex 66 555 0
+vertex 105 187 0
+vertex 443 37 0
+vertex 743 254 0
+vertex 704 622 0
+vertex 366 772 0
+color 235 20 255
+polyline 7 1
+vertex 358 782 0
+vertex 55 553 0
+vertex 101 176 0
+vertex 451 27 0
+vertex 754 256 0
+vertex 708 633 0
+vertex 358 782 0
+color 242 13 255
+polyline 7 1
+vertex 350 791 0
+vertex 43 551 0
+vertex 97 164 0
+vertex 459 18 0
+vertex 766 258 0
+vertex 712 645 0
+vertex 350 791 0
+color 248 7 255
+polyline 7 1
+vertex 342 800 0
+vertex 31 548 0
+vertex 94 153 0
+vertex 467 9 0
+vertex 778 261 0
+vertex 715 656 0
+vertex 342 800 0
+color 255 0 255
+polyline 7 1
+vertex 333 808 0
+vertex 19 545 0
+vertex 90 141 0
+vertex 476 1 0
+vertex 790 264 0
+vertex 719 668 0
+vertex 333 808 0
+polyline 5 3
+color  255 255 255
+vertex 1 1 0
+color  255 255  0
+vertex 810 1 0
+color  0   255 0
+vertex 810 810 0
+color  0   255 255
+vertex 1   810 0
+color  255 255 255
+vertex 1   1   0
